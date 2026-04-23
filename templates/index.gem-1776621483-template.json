@@ -1,0 +1,685 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "text_j66tiM": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Joyería de lujo minimalista para mujeres que se atreven a brillar",
+            "text_style": "body"
+          }
+        },
+        "heading_mQcPKH": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Elegancia que te Define",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "text_j66tiM",
+        "heading_mQcPKH"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-leeloothefirst-4550848.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "collection_list_nUEwbb": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_eVRWaW": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pulseras"
+          }
+        },
+        "featured_collection_LnDBLC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "anillos"
+          }
+        },
+        "featured_collection_VCYjQ4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "aretes"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_eVRWaW",
+        "featured_collection_LnDBLC",
+        "featured_collection_VCYjQ4"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Nuestras Colecciones",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {}
+    },
+    "multicolumn_RUjpY8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JYN3w8": {
+          "type": "column",
+          "settings": {
+            "icon": "CheckCircle",
+            "title": "Envío Seguro",
+            "text": "<p>Embalaje premium y envío asegurado a toda Colombia. Tus piezas llegan en perfectas condiciones.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yatXin": {
+          "type": "column",
+          "settings": {
+            "icon": "Public",
+            "title": "Garantía de Calidad",
+            "text": "<p>Garantía de 3 meses en todas nuestras piezas. Materiales premium: acero inoxidable, baño de oro 18k y cristales Swarovski.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qThet3": {
+          "type": "column",
+          "settings": {
+            "icon": "Money",
+            "title": "Atención Personalizada",
+            "text": "<p>Nuestro equipo está disponible para ayudarte a encontrar la pieza perfecta. Asesoría sin compromiso.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JYN3w8",
+        "column_yatXin",
+        "column_qThet3"
+      ],
+      "settings": {
+        "title": "Por Qué Elegir Vexora",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "newsletter_zhd7k9": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_pL7wJE": {
+          "type": "heading",
+          "settings": {
+            "heading": "Únete a Nuestra Comunidad",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_Qc7xgi": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Recibe primero las nuevas colecciones y ofertas exclusivas para suscriptoras<\/p>"
+          }
+        },
+        "email_form_zkNwkH": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_pL7wJE",
+        "paragraph_Qc7xgi",
+        "email_form_zkNwkH"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_xFfiXb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GiEajR": {
+          "type": "heading",
+          "settings": {
+            "heading": "La Historia de Vexora Jewelry",
+            "heading_size": "h1"
+          }
+        },
+        "text_dEhEd3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En Vexora Jewelry, cada pieza cuenta una historia de elegancia y distinción. Creemos que la joyería no es solo un accesorio, sino una expresión de tu personalidad y estilo de vida.<\/p><p>Desde nuestros inicios, nos hemos comprometido a ofrecer diseños minimalistas y sofisticados que trascienden las tendencias. Utilizamos solo los mejores materiales: acero inoxidable quirurgico, baño de oro 18k, piedras naturales y cristales Swarovski certificados.<\/p><p>Cada pieza es creada con pasión y dedicación, reflejando nuestro compromiso inquebrantable con la calidad y la excelencia. Porque mereces joyería que te haga sentir extraordinaria.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GiEajR",
+        "text_dEhEd3"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "image_with_text_UMFWiF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_N8dwbd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Materiales Premium",
+            "heading_size": "h1"
+          }
+        },
+        "text_UagVfA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Utilizamos solo los mejores materiales: acero inoxidable, baño de oro 18k, piedras naturales y cristales Swarovski para garantizar durabilidad y elegancia.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_7tmUJw": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explorar Colección",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_N8dwbd",
+        "text_UagVfA",
+        "button_7tmUJw"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ChatGPT_Image_31_mar_2026_01_04_54_p.m..png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "rich_text_H7a4nF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kqNdfD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hecho con Amor y Precisión",
+            "heading_size": "h1"
+          }
+        },
+        "text_9fyDyB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cada pieza de nuestra colección es seleccionada con cuidado, combinando materiales de alta calidad con diseños atemporales que realzan tu belleza natural.<\/p>"
+          }
+        },
+        "button_4exxC9": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kqNdfD",
+        "text_9fyDyB",
+        "button_4exxC9"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "featured_product_DUEQK8": {
+      "type": "featured-product",
+      "blocks": {
+        "text_4KwP7d": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>PIEZAS DESTACADAS<\/strong>",
+            "text_style": "subtitle"
+          }
+        },
+        "title_Bw8Y3F": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_XxgkPR": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_DFPCY8": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_CHEANa": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_jCqKGB": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_4KwP7d",
+        "title_Bw8Y3F",
+        "price_XxgkPR",
+        "variant_picker_DFPCY8",
+        "quantity_selector_CHEANa",
+        "buy_buttons_jCqKGB"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "",
+        "color_scheme": "scheme-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "image_with_text_MXM9aL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GLqnYc": {
+          "type": "heading",
+          "settings": {
+            "heading": "El Regalo Perfecto",
+            "heading_size": "h1"
+          }
+        },
+        "text_xgXLaD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cada joya viene en un elegante estuche de regalo, lista para sorprender a esa persona especial en cualquier ocasión.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UKQUtc": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GLqnYc",
+        "text_xgXLaD",
+        "button_UKQUtc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "testimonials_dngRaR": {
+      "type": "testimonials",
+      "blocks": {
+        "column_YgYXe4": {
+          "type": "column",
+          "settings": {
+            "title": "¡Me encantó!",
+            "text": "<p>\"¡Me encantó mi pulsera de Vexora! La calidad es increíble y llegó súper rápido. Sin duda la mejor joyería que he comprado en Colombia. 💛\"<\/p>",
+            "image_pos": "below_description",
+            "author": "<em><strong>Valentina Gómez<\/strong><\/em>Bogotá"
+          }
+        },
+        "column_4P8QAn": {
+          "type": "column",
+          "settings": {
+            "title": "Perfecto para regalar",
+            "text": "<p>\"Los aretes son hermosos, exactamente como en las fotos. El empaque es muy elegante, perfecto para regalar. ¡Volveré a comprar!\"<\/p>",
+            "image_pos": "below_description",
+            "author": "<em><strong>Daniela Martínez<\/strong><\/em>Medellín"
+          }
+        },
+        "column_hUznym": {
+          "type": "column",
+          "settings": {
+            "title": "100% recomendado",
+            "text": "<p>\"Excelente atención y producto de lujo a un precio justo. Mi collar de Vexora recibe cumplidos cada vez que lo uso. ¡100% recomendado!\"<\/p>",
+            "image_pos": "below_description",
+            "author": "<em><strong>Camila Rodríguez<\/strong><\/em>Cali"
+          }
+        }
+      },
+      "block_order": [
+        "column_YgYXe4",
+        "column_4P8QAn",
+        "column_hUznym"
+      ],
+      "settings": {
+        "title": "Lo que dicen nuestras clientas",
+        "testimonials_per_row": 3,
+        "gap": 20,
+        "show_stars": true,
+        "stars_color": "#c9a84c",
+        "background_color": "#f5f0e8",
+        "show_quotes": true,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "image_with_text_WVC6Ch": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iT36HQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Calidad que se Siente",
+            "heading_size": "h1"
+          }
+        },
+        "text_Uf3Pmz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Materiales premium, diseños exclusivos y atención al detalle en cada pieza. Cada joya es una obra maestra creada con pasión y dedicación para ofrecerte bisutería que trasciende el tiempo.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iT36HQ",
+        "text_Uf3Pmz"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn_ADfik9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_edbjiG": {
+          "type": "column",
+          "settings": {
+            "icon": "💎",
+            "title": "Calidad Garantizada",
+            "text": "<p>Materiales premium seleccionados<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YBUgh3": {
+          "type": "column",
+          "settings": {
+            "icon": "🚚",
+            "title": "Envío Seguro",
+            "text": "<p>Empaque especial para proteger tus joyas<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rxU7GM": {
+          "type": "column",
+          "settings": {
+            "icon": "✨",
+            "title": "Devoluciones Fáciles",
+            "text": "<p>30 días para cambios sin preguntas<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_edbjiG",
+        "column_YBUgh3",
+        "column_rxU7GM"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "POLITICAS DE LA TIENDA",
+        "button_link": "shopify:\/\/policies\/refund-policy",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "featured_product_bytHRq": {
+      "type": "featured-product",
+      "blocks": {
+        "text_FnNP4q": {
+          "type": "text",
+          "settings": {
+            "text": "PIEZAS MÁS VENDIDAS",
+            "text_style": "uppercase"
+          }
+        },
+        "title_ViF9mD": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_fTYDer": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_LqaPVF": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_nwTiWG": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_M8UWHf": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_4y33Vp": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_FnNP4q",
+        "title_ViF9mD",
+        "price_fTYDer",
+        "variant_picker_LqaPVF",
+        "quantity_selector_nwTiWG",
+        "buy_buttons_M8UWHf",
+        "share_4y33Vp"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "collar-treboll-corazon-extendib-cajareg",
+        "color_scheme": "scheme-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter_94GBg4": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_fYpHbj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Únete a Nuestra Comunidad",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_QbpEP8": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sé la primera en conocer nuestras nuevas colecciones y ofertas exclusivas.<\/p>"
+          }
+        },
+        "email_form_LnhkKf": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_fYpHbj",
+        "paragraph_QbpEP8",
+        "email_form_LnhkKf"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_divider_qbL6Uj": {
+      "type": "section-divider",
+      "settings": {
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "background_color": "#ffffff",
+        "shape_color": "#1a1a1a",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "collection_list_nUEwbb",
+    "featured_collection",
+    "multicolumn_RUjpY8",
+    "newsletter_zhd7k9",
+    "rich_text_xFfiXb",
+    "image_with_text_UMFWiF",
+    "rich_text_H7a4nF",
+    "featured_product_DUEQK8",
+    "image_with_text_MXM9aL",
+    "testimonials_dngRaR",
+    "image_with_text_WVC6Ch",
+    "multicolumn_ADfik9",
+    "featured_product_bytHRq",
+    "newsletter_94GBg4",
+    "section_divider_qbL6Uj"
+  ]
+}
