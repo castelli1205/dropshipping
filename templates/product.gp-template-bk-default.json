@@ -1,1 +1,1054 @@
-{"order":["colors_changer_aDXkpK","main","frequently_bought_together_z4GahM","builder_p98UdB","builder_JUkPnd","comparison_table_8w9TDA","horizontal_ticker_RyAwyh","results_WgRpTd","testimonials_RPWf8i","image_slider_xpnX9m","section_divider_7c9mQN","collapsible_content_G6nVhX","section_divider_eG4pDC","image_banner_8hqm7j","image_banner_ecp8tc","image_banner_NMq3CP","section_divider_CdnArQ","section_divider_UeiT8c","rich_text_Hn3Njc","multicolumn_wcnnPa","section_divider_JrJtpH","testimonials_BafDBW","17744548018e576ab0","177445290924fad476"],"sections":{"177445290924fad476":{"settings":{"include_margins":true},"type":"apps"},"17744548018e576ab0":{"block_order":["judge_me_reviews_review_widget_yLPzCB"],"blocks":{"judge_me_reviews_review_widget_yLPzCB":{"settings":{"empty_state":"empty_widget","max_width":1200,"review_data":"real_data","show_shop_reviews":false},"type":"shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8"}},"settings":{"include_margins":true},"type":"apps"},"builder_JUkPnd":{"block_order":["icon_with_text_frV83L","image_jYDEGW","icon_with_text_nCjmjp"],"blocks":{"icon_with_text_frV83L":{"settings":{"filled_icon":false,"filled_icon_second":false,"icon":"check_circle","icon_position":"next-to-title","icon_position_second":"next-to-title","icon_second":"check_circle","text":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","text_second":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","title":"Icon with text","title_second":"Icon with text"},"type":"icon_with_text"},"icon_with_text_nCjmjp":{"settings":{"filled_icon":false,"filled_icon_second":false,"icon":"check_circle","icon_position":"next-to-title","icon_position_second":"next-to-title","icon_second":"check_circle","text":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","text_second":"\u003cp\u003ePair text with an icon to focus on your chosen product, collection, or blog post\u003c/p\u003e","title":"Icon with text","title_second":"Icon with text"},"type":"icon_with_text"},"image_jYDEGW":{"settings":{},"type":"image"}},"disabled":true,"settings":{"alignment":"center","background_color":"#ffffff","button_color":"#ffcc00","button_label_color":"#2a324b","columns":3,"display":"both","padding_bottom":0,"padding_top":0,"space_between_col":52,"space_between_row":64,"text_color":"#212240"},"type":"builder"},"builder_p98UdB":{"block_order":["rich_text_gYDndd"],"blocks":{"rich_text_gYDndd":{"settings":{"alignment":"center","button_label":"","button_link":"","heading":"Zendrop builder","heading_size":"h1","space_between_items":10,"text":"\u003cp\u003eWelcome to the Zendrop builder section. Add rich text content here.\u003c/p\u003e"},"type":"rich_text"}},"disabled":true,"settings":{"alignment":"center","background_color":"#ffffff","button_color":"#2a324b","button_label_color":"#ffffff","columns":1,"display":"both","padding_bottom":24,"padding_top":100,"space_between_col":16,"space_between_row":16,"text_color":"#212240"},"type":"builder"},"collapsible_content_G6nVhX":{"block_order":["collapsible_row_BFdNqY","collapsible_row_9BfGcP","collapsible_row_dAqCh8","collapsible_row_eRBDXT"],"blocks":{"collapsible_row_9BfGcP":{"settings":{"heading":"¿Es apta para pieles sensibles?","icon":"check_mark","page":"","row_content":"\u003cp\u003eSí, es 100% hipoalergénica, libre de níquel y materiales irritantes.\u003c/p\u003e"},"type":"collapsible_row"},"collapsible_row_BFdNqY":{"settings":{"heading":"¿De qué material está hecha?","icon":"check_mark","page":"","row_content":"\u003cp\u003eFabricada en acero inoxidable con baño de oro 18k, garantiza durabilidad y un acabado premium que no se oscurece.\u003c/p\u003e"},"type":"collapsible_row"},"collapsible_row_dAqCh8":{"settings":{"heading":"¿Cuánto tarda el envío a Colombia?","icon":"truck","page":"","row_content":"\u003cp\u003eEntre 5 a 10 días hábiles a cualquier ciudad de Colombia.\u003c/p\u003e"},"type":"collapsible_row"},"collapsible_row_eRBDXT":{"settings":{"heading":"¿Cómo cuido mi pulsera?","icon":"leaf","page":"","row_content":"\u003cp\u003eEvita el contacto con agua, perfumes y cremas. Guárdala en su caja para mantener su brillo.\u003c/p\u003e"},"type":"collapsible_row"}},"name":"t:sections.collapsible_content.presets.name","settings":{"caption":"","color_scheme":"scheme-3","container_color_scheme":"","desktop_layout":"image_second","heading":"Preguntas Frecuentes","heading_alignment":"center","heading_size":"h1","image_ratio":"adapt","layout":"none","open_first_collapsible_row":false,"padding_bottom":0,"padding_top":0},"type":"collapsible-content"},"colors_changer_aDXkpK":{"disabled":true,"settings":{"accent":"#8472ed","accent_text":"#000000","button":"#000000","button_label":"#ffffff","outline_button":"#de2a2a","outline_button_label":"#000000","shadow":"#ffcc00","text":"#000000"},"type":"colors-changer"},"comparison_table_8w9TDA":{"block_order":["row_YKPYKJ","row_ARqR97","row_izfNM9"],"blocks":{"row_ARqR97":{"settings":{"benefit":"Hipoalergénico","others":false,"us":true},"type":"row"},"row_YKPYKJ":{"settings":{"benefit":"Baño de Oro 18k","others":false,"us":true},"type":"row"},"row_izfNM9":{"settings":{"benefit":"Diseño Exclusivo","others":false,"us":true},"type":"row"}},"disabled":true,"settings":{"button_label":"Test","button_style_secondary":true,"checkmark_color":"#c9a84c","heading_size":"h1","highlighted_overlay_opacity":0,"highlighted_separator_opacity":0,"layout":"table_second","link":"#","logo_width":90,"minimalistic_border_opacity":16,"mobile_logo_width":60,"opposite_icon_colors":"original","others_label":"Otras Marcas","others_label_size":18,"padding_bottom":72,"padding_top":36,"regular_overlay_opacity":0,"regular_separator_opacity":10,"style":"classic","text":"\u003cp\u003eTalk about how and why is your brand better than the others.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e","title":"¿Por qué elegirnos?","title_cell_bg":"#c9a84c","title_cell_color":"#1a1a1a","us_label":"Nuestra Pulsera","us_label_size":18,"x_color":"#1a1a1a"},"type":"comparison-table"},"frequently_bought_together_z4GahM":{"disabled":true,"settings":{"button_color":"#c9a84c","button_label":"Add all to cart","heading":"También te puede gustar","padding_bottom":36,"padding_top":32,"product_1":"","product_2":""},"type":"frequently-bought-together"},"horizontal_ticker_RyAwyh":{"block_order":["text_XKqggE","text_NnxmqT","text_8PGkfz"],"blocks":{"text_8PGkfz":{"settings":{"title":"Baño de Oro 18k · Envío a Colombia · Hipoalergénico · Devolución 30 días"},"type":"text"},"text_NnxmqT":{"settings":{"title":"Baño de Oro 18k · Envío a Colombia · Hipoalergénico · Devolución 30 días"},"type":"text"},"text_XKqggE":{"settings":{"title":"Baño de Oro 18k · Envío a Colombia · Hipoalergénico · Devolución 30 días"},"type":"text"}},"disabled":true,"settings":{"background":"#1a1a1a","bold_text":false,"desktop_padding_bottom":16,"desktop_padding_top":16,"desktop_spacing":100,"desktop_text_size":18,"italic_text":false,"mobile_padding_bottom":12,"mobile_padding_top":12,"mobile_spacing":60,"mobile_text_size":16,"speed":3,"text":"#c9a84c","uppercase_text":false},"type":"horizontal-ticker"},"image_banner_8hqm7j":{"block_order":["heading_Y8kXHQ","text_bfqbEt"],"blocks":{"heading_Y8kXHQ":{"settings":{"heading":"Eleva tu estilo sin esfuerzo","heading_size":"h1"},"type":"heading"},"text_bfqbEt":{"settings":{"text":"Su diseño elegante tipo trébol aporta un toque sofisticado que mejora cualquier outfit, desde looks casuales hasta ocasiones especiales.","text_style":"body"},"type":"text"}},"name":"t:sections.image-banner.presets.name","settings":{"color_scheme":"","desktop_content_alignment":"center","desktop_content_position":"middle-center","image":"shopify://shop_images/176796969117523328571743637908492cc9fb58d83c67017e08f01af7fa23.jpg","image_behavior":"none","image_height":"medium","image_overlay_opacity":0,"mobile_content_alignment":"center","show_text_below":true,"show_text_box":true,"stack_images_on_mobile":true},"type":"image-banner"},"image_banner_NMq3CP":{"block_order":["heading_hRM78N","text_WVjTEa"],"blocks":{"heading_hRM78N":{"settings":{"heading":"El regalo perfecto para cualquier ocasión","heading_size":"h1"},"type":"heading"},"text_WVjTEa":{"settings":{"text":"Su diseño elegante la convierte en un detalle ideal para cumpleaños, aniversarios o sorpresas especiales.","text_style":"body"},"type":"text"}},"name":"t:sections.image-banner.presets.name","settings":{"color_scheme":"","desktop_content_alignment":"center","desktop_content_position":"middle-center","image":"shopify://shop_images/ChatGPT_Image_25_mar_2026_05_31_45_p.m..png","image_behavior":"none","image_height":"medium","image_overlay_opacity":0,"mobile_content_alignment":"center","show_text_below":true,"show_text_box":true,"stack_images_on_mobile":true},"type":"image-banner"},"image_banner_ecp8tc":{"block_order":["heading_QRPCYG","text_WKcLhE"],"blocks":{"heading_QRPCYG":{"settings":{"heading":"Luce una joya con apariencia premium","heading_size":"h1"},"type":"heading"},"text_WKcLhE":{"settings":{"text":"Cuenta con un acabado \u003cstrong\u003ebañado en oro\u003c/strong\u003e que brinda un brillo delicado y una estética inspirada en las tendencias de lujo.","text_style":"body"},"type":"text"}},"name":"t:sections.image-banner.presets.name","settings":{"color_scheme":"","desktop_content_alignment":"center","desktop_content_position":"middle-center","image":"shopify://shop_images/ChatGPT_Image_25_mar_2026_04_31_32_p.m..png","image_behavior":"none","image_height":"medium","image_overlay_opacity":0,"mobile_content_alignment":"center","show_text_below":true,"show_text_box":true,"stack_images_on_mobile":true},"type":"image-banner"},"image_slider_xpnX9m":{"block_order":["video_slide_wjmfTw","video_slide_tgNpGi","video_slide_bYWVMH","video_slide_MyitKH"],"blocks":{"video_slide_MyitKH":{"settings":{"video":"shopify://files/videos/download (3).mp4"},"type":"video_slide"},"video_slide_bYWVMH":{"settings":{"video":"shopify://files/videos/download (1).mp4"},"type":"video_slide"},"video_slide_tgNpGi":{"settings":{"video":"shopify://files/videos/download (2).mp4"},"type":"video_slide"},"video_slide_wjmfTw":{"settings":{"video":"shopify://files/videos/download.mp4"},"type":"video_slide"}},"name":"Image/Video Slider","settings":{"arrows":true,"autoplay":true,"center_align":false,"dots":true,"heading":"Únete a más de 1000 clientes satisfechos","infinite":true,"padding_bottom":0,"padding_top":0,"slides_to_scroll":1,"slides_to_show":3,"slides_to_show_mobile":3},"type":"image-slider"},"main":{"block_order":["rating_stars_yRDU98","urgency_Cy48Ac","title","text_gdk7Xb","text_nPLRzz","text_XnF4e7","text_eJeWwB","price","quantity_discounts_GxKr68","icon_with_text_q3DCR7","quantity_selector_CBnrq3","variant_picker","buy_buttons","shipping_estimator_eJ9Kpa","reviews_UwxAAn","collapsible_tab_ziMbNA","collapsible_tab_tjQgHV","collapsible_tab_7FjCx6","collapsible_tab_AYiB3M","collapsible_tab_znrpit","sticky_atc_XcXbr4"],"blocks":{"buy_buttons":{"disabled":true,"settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true},"type":"buy_buttons"},"collapsible_tab_7FjCx6":{"settings":{"content":"\u003cp\u003e\u003cstrong\u003eEnvío Gratis a Todo Colombia:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eOfrecemos \u003cstrong\u003eenvío completamente GRATIS\u003c/strong\u003e a cualquier rincón de Colombia, sin importar dónde vivas. Tu pulsera de lujo llegará a tu puerta sin costos adicionales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTiempos de Entrega:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e• \u003cstrong\u003e3 a 7 días hábiles\u003c/strong\u003e después de confirmar tu compra\u003cbr/\u003e• Entrega más rápida en ciudades principales (Bogotá, Medellín, Cali, Barranquilla)\u003cbr/\u003e• Seguimiento en tiempo real de tu pedido\u003cbr/\u003e• Notificaciones por SMS y correo electrónico\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eOpciones de Pago:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e✓ \u003cstrong\u003ePago Contra Entrega (COD)\u003c/strong\u003e - Paga cuando recibas el producto\u003cbr/\u003e✓ Tarjeta de crédito/débito\u003cbr/\u003e✓ Transferencia bancaria\u003cbr/\u003e✓ Billetera digital (Nequi, Daviplata, etc.)\u003cbr/\u003e✓ Crédito con Klarna (sin intereses)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEmpaque Premium:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eTu pulsera llega en una caja de presentación elegante, perfecta para regalo. Incluye:\u003c/p\u003e\u003cp\u003e• Caja de lujo con logo VEXORA\u003cbr/\u003e• Paño de microfibra para limpiar\u003cbr/\u003e• Certificado de autenticidad\u003cbr/\u003e• Instrucciones de cuidado\u003cbr/\u003e• Asegurado contra daños durante el transporte\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCompra con tranquilidad.\u003c/strong\u003e Tu confianza es nuestra prioridad.\u003c/p\u003e","heading":"¿Cuánto tarda el envío? ¿Puedo pagar contra entrega?","icon":"truck","page":""},"type":"collapsible_tab"},"collapsible_tab_AYiB3M":{"settings":{"content":"\u003cp\u003e\u003cstrong\u003eResistencia al Agua:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAunque el acero inoxidable es resistente a la corrosión, \u003cstrong\u003eNO recomendamos\u003c/strong\u003e el contacto prolongado con agua. El baño de oro puede deteriorarse con la exposición constante a agua, cloro o químicos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuándo debo quitarme la pulsera?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e• Antes de bañarte o duchar\u003cbr/\u003e• Antes de nadar o ir a la piscina\u003cbr/\u003e• Antes de hacer ejercicio o deportes\u003cbr/\u003e• Antes de lavar platos o limpiar\u003cbr/\u003e• Antes de aplicar perfumes o lociones\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCuidado y Mantenimiento Premium:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLimpieza Diaria:\u003c/strong\u003e\u003cbr/\u003e• Limpia suavemente con un paño de microfibra seco después de cada uso\u003cbr/\u003e• Esto elimina el polvo y mantiene el brillo\u003cbr/\u003e• Toma solo 10 segundos\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLimpieza Profunda (Mensual):\u003c/strong\u003e\u003cbr/\u003e• Usa agua tibia con jabón neutro\u003cbr/\u003e• Frota suavemente con un cepillo de cerdas suaves\u003cbr/\u003e• Seca inmediatamente con paño de microfibra\u003cbr/\u003e• Nunca uses productos químicos agresivos\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAlmacenamiento Correcto:\u003c/strong\u003e\u003cbr/\u003e• Guarda en un lugar seco y protegido\u003cbr/\u003e• Preferiblemente en la caja de presentación original\u003cbr/\u003e• Evita la exposición prolongada a luz solar directa\u003cbr/\u003e• Mantén alejado de humedad y temperaturas extremas\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eProtección del Baño de Oro:\u003c/strong\u003e\u003cbr/\u003e• Evita el contacto con perfumes, lociones y desodorantes\u003cbr/\u003e• No uses limpiadores ultrasónicos\u003cbr/\u003e• No expongas a cloro o agua salada\u003cbr/\u003e• Con el cuidado adecuado, el baño de oro durará años\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eServicio de Mantenimiento:\u003c/strong\u003e\u003cbr/\u003eSi después de tiempo el baño de oro se desgasta, ofrecemos servicio de re-baño de oro a precio especial para clientes VEXORA.\u003c/p\u003e","heading":"¿Es resistente al agua? ¿Cómo debo cuidar mi pulsera?","icon":"star","page":""},"type":"collapsible_tab"},"collapsible_tab_tjQgHV":{"settings":{"content":"\u003cp\u003e\u003cstrong\u003eGarantía Premium de VEXORA:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eConfiamos plenamente en la calidad de nuestras pulseras. Por eso ofrecemos:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e✓ Garantía de 3 meses\u003c/strong\u003e contra defectos de fabricación\u003cbr/\u003e\u003cstrong\u003e✓ Certificado de autenticidad\u003c/strong\u003e incluido con cada compra\u003cbr/\u003e\u003cstrong\u003e✓ Inspección de calidad rigurosa\u003c/strong\u003e antes del envío\u003cbr/\u003e\u003cstrong\u003e✓ Derecho a cambio o devolución\u003c/strong\u003e dentro de 30 días si no estás completamente satisfecho\u003cbr/\u003e\u003cstrong\u003e✓ Servicio de reparación y mantenimiento\u003c/strong\u003e disponible\u003cbr/\u003e\u003cstrong\u003e✓ Soporte al cliente dedicado\u003c/strong\u003e en español\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cómo funciona la devolución?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSi por cualquier razón no estás satisfecho con tu compra, tienes 30 días para solicitar un cambio o devolución. El proceso es simple:\u003c/p\u003e\u003cp\u003e1. Contacta a nuestro equipo de atención al cliente\u003cbr/\u003e2. Envía fotos del producto (sin usar)\u003cbr/\u003e3. Nosotros nos encargamos del envío de retorno\u003cbr/\u003e4. Recibirás tu reembolso o cambio en máximo 5 días hábiles\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTu inversión en lujo está protegida.\u003c/strong\u003e Cada pulsera Trébol Van Cleef es inspeccionada personalmente para garantizar que cumple con nuestros estándares de excelencia.\u003c/p\u003e","heading":"¿Tienen garantía? ¿Puedo devolver si no me gusta?","icon":"check_mark","page":""},"type":"collapsible_tab"},"collapsible_tab_ziMbNA":{"settings":{"content":"\u003cp\u003e\u003cstrong\u003eMaterial Premium de Lujo:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNuestra Pulsera Trébol Van Cleef está confeccionada con \u003cstrong\u003eacero inoxidable de grado quirúrgico\u003c/strong\u003e, un material de la más alta calidad que garantiza durabilidad y resistencia excepcional.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAcabado Dorado:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e• Baño de oro de 18 quilates de alta densidad\u003cbr/\u003e• Acabado pulido espejo de precisión\u003cbr/\u003e• Brillo duradero y resistente al desgaste\u003cbr/\u003e• Hipoalergénico y seguro para pieles sensibles\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Por qué este material?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEl acero inoxidable quirúrgico es el mismo material utilizado en joyería de lujo de alta gama. Es resistente a la corrosión, no se oxida y mantiene su brillo durante años con el cuidado adecuado. El baño de oro de 18 quilates proporciona ese acabado premium y elegante que caracteriza a las pulseras Van Cleef.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCertificación:\u003c/strong\u003e Cada pulsera viene con certificado de autenticidad que verifica la calidad del material.\u003c/p\u003e","heading":"¿De qué material está hecha la pulsera?","icon":"clipboard","page":""},"type":"collapsible_tab"},"collapsible_tab_znrpit":{"settings":{"content":"\u003cp\u003e\u003cstrong\u003e¿Qué talla debo elegir?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNuestra Pulsera Trébol Van Cleef es \u003cstrong\u003eajustable de 16 a 20 cm de circunferencia\u003c/strong\u003e, lo que la hace perfecta para la mayoría de las muñecas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCómo medir tu muñeca:\u003c/strong\u003e\u003cbr/\u003e• Usa una cinta métrica o un hilo\u003cbr/\u003e• Mide alrededor de tu muñeca (donde normalmente usas la pulsera)\u003cbr/\u003e• Debe quedar cómoda, ni muy apretada ni muy suelta\u003cbr/\u003e• Si tu medida está entre 16-20 cm, esta pulsera es perfecta para ti\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Es cómoda para usar a diario?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSí, absolutamente. La pulsera pesa solo \u003cstrong\u003eaproximadamente 8 gramos\u003c/strong\u003e, lo que la hace:\u003c/p\u003e\u003cp\u003e• Ligera y cómoda para usar todo el día\u003cbr/\u003e• No causa molestias ni irritación\u003cbr/\u003e• Perfecta para uso diario u ocasiones especiales\u003cbr/\u003e• Ideal para niñas, adolescentes y mujeres adultas\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Con qué puedo combinarla?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLa Pulsera Trébol Van Cleef es \u003cstrong\u003eextremadamente versátil\u003c/strong\u003e:\u003c/p\u003e\u003cp\u003e• \u003cstrong\u003eLook Casual:\u003c/strong\u003e Combina perfectamente con jeans, camisetas y ropa deportiva\u003cbr/\u003e• \u003cstrong\u003eLook Elegante:\u003c/strong\u003e Ideal para vestidos, faldas y outfits formales\u003cbr/\u003e• \u003cstrong\u003eLook Minimalista:\u003c/strong\u003e El diseño del trébol es sutil y sofisticado\u003cbr/\u003e• \u003cstrong\u003eStacking:\u003c/strong\u003e Puedes usar varias pulseras juntas para un look más llamativo\u003cbr/\u003e• \u003cstrong\u003eCualquier ocasión:\u003c/strong\u003e Desde el trabajo hasta una cena especial\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Es un buen regalo?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAbsolutamente. La Pulsera Trébol Van Cleef es el regalo perfecto para:\u003c/p\u003e\u003cp\u003e• Cumpleaños\u003cbr/\u003e• Aniversarios\u003cbr/\u003e• Graduaciones\u003cbr/\u003e• Día de la mujer\u003cbr/\u003e• Navidad\u003cbr/\u003e• Cualquier ocasión especial\u003c/p\u003e\u003cp\u003eViene en una \u003cstrong\u003ecaja de presentación de lujo\u003c/strong\u003e lista para regalar, con certificado de autenticidad e instrucciones de cuidado.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eNota:\u003c/strong\u003e Si tienes dudas sobre tu talla o necesitas ayuda para elegir, nuestro equipo de atención al cliente está disponible para asesorarte sin compromiso.\u003c/p\u003e","heading":"Tallas, ajuste y versatilidad","icon":"ruler","page":""},"type":"collapsible_tab"},"icon_with_text_q3DCR7":{"disabled":true,"settings":{"heading_1":"🔒 Pago Seguro","heading_2":"🚚 Envío Gratis","heading_3":"✨ Devolución 30 días","icon_1":"lock","icon_2":"truck","icon_3":"return","layout":"horizontal"},"type":"icon-with-text"},"price":{"settings":{},"type":"price"},"quantity_discounts_GxKr68":{"disabled":true,"settings":{"most_popular":"GET TWO","option1_compare_at_price":"89900","option1_heading":"Compra Uno","option1_price":"69900","option1_quantity":1,"option1_text":"You save [saved]","option2_compare_at_price":"","option2_heading":"Compra Dos","option2_price":"69900","option2_quantity":2,"option2_text":"You save [saved]","option3_compare_at_price":"","option3_heading":"Compra 3","option3_price":"","option3_quantity":3,"option3_text":"You save [saved]","option4_compare_at_price":"","option4_heading":"","option4_price":"","option4_quantity":4,"option4_text":""},"type":"quantity_discounts"},"quantity_selector_CBnrq3":{"disabled":true,"settings":{},"type":"quantity_selector"},"rating_stars_yRDU98":{"settings":{"alignment":"flex-start","bg_star_color":"#ececec","bg_stars_style":"full","label":"(Calificación: 4.8 de 5 estrellas) +1000 clientes satisfechos","rating":4.8,"scroll_id":"#zendrop-builder--template--16817198104712__builder_JUkPnd","star_color":"#c9a84c"},"type":"rating_stars"},"reviews_UwxAAn":{"settings":{"author_1":"\u003cem\u003eValentina Ospina\u003c/em\u003e","author_2":"\u003cem\u003eDaniela Martínez\u003c/em\u003e","author_3":"\u003cem\u003eCamila Restrepo\u003c/em\u003e","avatar_alignment":"top","display_stars":true,"star_color":"#ffcc00","text_1":"\u003cp\u003eLa compré en color plateado y es hermosa. Se ve exactamente como en las fotos, el brillo es increíble. Llevo dos meses usándola a diario y sigue igual. ¡Vale cada peso!\u003c/p\u003e","text_2":"\u003cp\u003eLa pedí como regalo de cumpleaños y quedé encantada. El trébol es delicado y muy bien hecho. Ya la usé en la piscina y no perdió el color para nada. Super recomendada.\u003c/p\u003e","text_3":"\u003cp\u003eCompré la dorada y la negra. Las dos son preciosas. Combinan con todo, desde ropa casual hasta para salir elegante. Mucha gente me ha preguntado dónde las conseguí 😍\u003c/p\u003e"},"type":"reviews"},"shipping_estimator_eJ9Kpa":{"settings":{"buffer_days":2,"estimator_text":"COMPRA AHORA Y RECIBE EN [days] DÍAS","fulfilment_days":1,"position":"center","shipping_days":3,"show_icon":true},"type":"shipping_estimator"},"sticky_atc_XcXbr4":{"disabled":true,"settings":{"alignment":"left","bg_star_color":"#e0e0e0","bg_stars_style":"outlined","button_label":"Agregar al Carrito","custom_bar_color":"#ffffff","label":"4.5 out of 5 stars","rating":5,"size":24,"star_color":"#c9a84c"},"type":"sticky_atc"},"text_XnF4e7":{"settings":{"text":"🖤 Elegante para cualquier ocasión","text_style":"body"},"type":"text"},"text_eJeWwB":{"settings":{"text":"🎁 El regalo perfecto","text_style":"body"},"type":"text"},"text_gdk7Xb":{"settings":{"text":"✨ Eleva tu estilo al instante","text_style":"body"},"type":"text"},"text_nPLRzz":{"settings":{"text":"💎 Acabado bañado en oro de 10k","text_style":"body"},"type":"text"},"title":{"settings":{},"type":"title"},"urgency_Cy48Ac":{"settings":{"background_color":"#1a1a1a","padding":0,"position":"center","text_color":"#c9a84c","urgency":"COLECCIÓN EXCLUSIVA |APROVECHA NUESTRAS ÚLTIMAS OFERTAS DISPONIBLES"},"type":"urgency"},"variant_picker":{"disabled":true,"settings":{"picker_type":"button"},"type":"variant_picker"}},"settings":{"color_scheme":"scheme-1","constrain_to_viewport":true,"enable_sticky_info":true,"enable_video_looping":true,"gallery_layout":"thumbnail_slider","hide_variants":false,"image_zoom":"none","media_fit":"contain","media_position":"left","media_size":"small","mobile_thumbnails":"hide","padding_bottom":0,"padding_top":0},"type":"main-product"},"multicolumn_wcnnPa":{"block_order":["column_Yp8NR8","column_V8E3aq","column_YRCLcB"],"blocks":{"column_V8E3aq":{"settings":{"icon":"leaf","link":"","link_label":"","text":"\u003cp\u003eApto para pieles sensibles, sin níquel ni materiales irritantes\u003c/p\u003e","title":"Hipoalergénico"},"type":"column"},"column_YRCLcB":{"settings":{"icon":"heart","link":"","link_label":"","text":"\u003cp\u003eInspirado en la alta joyería mundial\u003c/p\u003e","title":"Diseño Exclusivo"},"type":"column"},"column_Yp8NR8":{"settings":{"icon":"star","link":"","link_label":"","text":"\u003cp\u003eAcabado premium que mantiene su brillo y no oscurece con el tiempo\u003c/p\u003e","title":"Baño de Oro 18k"},"type":"column"}},"name":"t:sections.multicolumn.presets.name","settings":{"background_style":"primary","button_label":"","button_link":"","color_scheme":"scheme-1","column_alignment":"center","columns_desktop":5,"columns_mobile":"2","heading_size":"h1","image_ratio":"adapt","image_width":"full","padding_bottom":80,"padding_top":80,"swipe_on_mobile":true,"title":"¿Por qué nuestros clientes nos eligen?"},"type":"multicolumn"},"results_WgRpTd":{"block_order":["row_QXgrNf","row_tJ64Nz","row_B8FVLN"],"blocks":{"row_B8FVLN":{"settings":{"percentage":90,"row_text":"\u003cp\u003eNoticed that this product has significantly improved their life.\u003c/p\u003e"},"type":"row"},"row_QXgrNf":{"settings":{"percentage":50,"row_text":"\u003cp\u003eNoticed that this product has significantly improved their life.\u003c/p\u003e"},"type":"row"},"row_tJ64Nz":{"settings":{"percentage":90,"row_text":"\u003cp\u003eNoticed that this product has significantly improved their life.\u003c/p\u003e"},"type":"row"}},"disabled":true,"settings":{"border_color":"#0d48e9","caption":"\u003cp\u003eCaption about the results and/or link for their proof.\u003c/p\u003e","heading_size":"h1","layout":"results_second","padding_bottom":36,"padding_top":72,"results_headline":"Results heading","results_headline_alignment":"left","results_headline_size":"h2","text":"\u003cp\u003eTalk about results of your customers and how your product improved their life.\u003c/p\u003e","title":"Results"},"type":"results"},"rich_text_Hn3Njc":{"block_order":["heading_ncBqrJ","text_FqpxaV"],"blocks":{"heading_ncBqrJ":{"settings":{"heading":"Bisutería que Trasciende el Tiempo","heading_size":"h1"},"type":"heading"},"text_FqpxaV":{"settings":{"text":"\u003cp\u003eCada pieza es seleccionada con cuidado, combinando materiales de alta calidad con diseños atemporales que realzan tu belleza natural.\u003c/p\u003e"},"type":"text"}},"name":"t:sections.rich-text.presets.name","settings":{"color_scheme":"scheme-1","content_alignment":"center","desktop_content_position":"center","full_width":true,"padding_bottom":0,"padding_top":0},"type":"rich-text"},"section_divider_7c9mQN":{"settings":{"background_color":"#ffffff","flip_horizontal":true,"flip_vertical":false,"padding_bottom":0,"padding_top":0,"shape":"waves_3","shape_color":"#111111"},"type":"section-divider"},"section_divider_CdnArQ":{"settings":{"background_color":"#ffffff","flip_horizontal":false,"flip_vertical":false,"padding_bottom":0,"padding_top":0,"shape":"waves_3","shape_color":"#111111"},"type":"section-divider"},"section_divider_JrJtpH":{"settings":{"background_color":"#ffffff","flip_horizontal":false,"flip_vertical":true,"padding_bottom":0,"padding_top":0,"shape":"waves_3","shape_color":"#111111"},"type":"section-divider"},"section_divider_UeiT8c":{"settings":{"background_color":"#ffffff","flip_horizontal":true,"flip_vertical":true,"padding_bottom":0,"padding_top":0,"shape":"waves_3","shape_color":"#111111"},"type":"section-divider"},"section_divider_eG4pDC":{"settings":{"background_color":"#ffffff","flip_horizontal":false,"flip_vertical":true,"padding_bottom":0,"padding_top":0,"shape":"waves_3","shape_color":"#111111"},"type":"section-divider"},"testimonials_BafDBW":{"block_order":["column_kFzEn6","column_PXefCU","column_xzd6Uc"],"blocks":{"column_PXefCU":{"settings":{"author":"\u003cstrong\u003eCamila R.\u003c/strong\u003e — Medellín","image":"shopify://shop_images/2.png","image_pos":"below_description","text":"\u003cp\u003eMe la regalé a mí misma y no me arrepiento. Se ve muy fina y la calidad es buena para el precio. El pago contra entrega me dio mucha confianza para comprar.\u003c/p\u003e","title":"Camila R."},"type":"column"},"column_kFzEn6":{"settings":{"author":"\u003cstrong\u003eValentina M.\u003c/strong\u003e — Bogotá","image":"shopify://shop_images/1.png","image_pos":"below_description","text":"\u003cp\u003eLa pulsera es preciosa, exactamente como en las fotos. La recibí en 5 días y el empaque se veía muy elegante. La uso todos los días y no ha perdido el brillo.\u003c/p\u003e","title":"Valentina M."},"type":"column"},"column_xzd6Uc":{"settings":{"author":"\u003cstrong\u003eDaniela P.\u003c/strong\u003e — Cali","image":"shopify://shop_images/3.png","image_pos":"below_description","text":"\u003cp\u003eBonita pulsera, el trébol de cuatro hojas se ve delicado y elegante. El envío tardó unos días más de lo esperado pero llegó en perfecto estado.\u003c/p\u003e","title":"Daniela P."},"type":"column"}},"name":"Testimonials","settings":{"background_color":"#f8f8f9","gap":8,"padding_bottom":0,"padding_top":0,"show_quotes":false,"show_stars":true,"stars_color":"#ffd700","testimonials_per_row":3,"title":"Lo que dicen nuestros clientes"},"type":"testimonials"},"testimonials_RPWf8i":{"block_order":["column_DETLhB","column_4xMFRq","column_QC84RN"],"blocks":{"column_4xMFRq":{"settings":{"author":"\u003cem\u003e\u003cstrong\u003eCatalina R.\u003c/strong\u003e\u003c/em\u003e","image_pos":"above_stars","text":"\u003cp\u003eLlegó en perfectas condiciones, bien empacada. El servicio al cliente fue excelente y muy atento a mis dudas.\u003c/p\u003e","title":"Envío Rápido y Seguro"},"type":"column"},"column_DETLhB":{"settings":{"author":"\u003cem\u003e\u003cstrong\u003eMaría G.\u003c/strong\u003e\u003c/em\u003e","image_pos":"below_description","text":"\u003cp\u003eLa calidad es excepcional. El baño de oro se ve lujoso y el diseño es muy elegante. Definitivamente volveré a comprar.\u003c/p\u003e","title":"Joya Perfecta"},"type":"column"},"column_QC84RN":{"settings":{"author":"\u003cem\u003e\u003cstrong\u003eValentina M.\u003c/strong\u003e\u003c/em\u003e","image_pos":"above_stars","text":"\u003cp\u003eSuperaron mis expectativas. Las joyas son más hermosas en persona. Perfecto para regalos especiales.\u003c/p\u003e","title":"Mejor que Esperaba"},"type":"column"}},"disabled":true,"settings":{"background_color":"#f5f0e8","gap":20,"padding_bottom":80,"padding_top":80,"show_quotes":true,"show_stars":true,"stars_color":"#c9a84c","testimonials_per_row":3,"title":"Lo que Dicen Nuestras Clientas"},"type":"testimonials"}}}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "colors_changer_aDXkpK",
+    "main",
+    "frequently_bought_together_z4GahM",
+    "builder_p98UdB",
+    "builder_JUkPnd",
+    "comparison_table_8w9TDA",
+    "horizontal_ticker_RyAwyh",
+    "results_WgRpTd",
+    "testimonials_RPWf8i",
+    "image_slider_xpnX9m",
+    "section_divider_7c9mQN",
+    "collapsible_content_G6nVhX",
+    "section_divider_eG4pDC",
+    "image_banner_8hqm7j",
+    "image_banner_ecp8tc",
+    "image_banner_NMq3CP",
+    "section_divider_CdnArQ",
+    "section_divider_UeiT8c",
+    "rich_text_Hn3Njc",
+    "multicolumn_wcnnPa",
+    "section_divider_JrJtpH",
+    "testimonials_BafDBW",
+    "17744548018e576ab0",
+    "177445290924fad476"
+  ],
+  "sections": {
+    "177445290924fad476": {
+      "settings": {
+        "include_margins": true
+      },
+      "type": "apps"
+    },
+    "17744548018e576ab0": {
+      "block_order": [
+        "judge_me_reviews_review_widget_yLPzCB"
+      ],
+      "blocks": {
+        "judge_me_reviews_review_widget_yLPzCB": {
+          "settings": {
+            "empty_state": "empty_widget",
+            "max_width": 1200,
+            "review_data": "real_data",
+            "show_shop_reviews": false
+          },
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8"
+        }
+      },
+      "settings": {
+        "include_margins": true
+      },
+      "type": "apps"
+    },
+    "builder_JUkPnd": {
+      "block_order": [
+        "icon_with_text_frV83L",
+        "image_jYDEGW",
+        "icon_with_text_nCjmjp"
+      ],
+      "blocks": {
+        "icon_with_text_frV83L": {
+          "settings": {
+            "filled_icon": false,
+            "filled_icon_second": false,
+            "icon": "check_circle",
+            "icon_position": "next-to-title",
+            "icon_position_second": "next-to-title",
+            "icon_second": "check_circle",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "text_second": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "Icon with text",
+            "title_second": "Icon with text"
+          },
+          "type": "icon_with_text"
+        },
+        "icon_with_text_nCjmjp": {
+          "settings": {
+            "filled_icon": false,
+            "filled_icon_second": false,
+            "icon": "check_circle",
+            "icon_position": "next-to-title",
+            "icon_position_second": "next-to-title",
+            "icon_second": "check_circle",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "text_second": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "title": "Icon with text",
+            "title_second": "Icon with text"
+          },
+          "type": "icon_with_text"
+        },
+        "image_jYDEGW": {
+          "settings": {},
+          "type": "image"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "alignment": "center",
+        "background_color": "#ffffff",
+        "button_color": "#ffcc00",
+        "button_label_color": "#2a324b",
+        "columns": 3,
+        "display": "both",
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "space_between_col": 52,
+        "space_between_row": 64,
+        "text_color": "#212240"
+      },
+      "type": "builder"
+    },
+    "builder_p98UdB": {
+      "block_order": [
+        "rich_text_gYDndd"
+      ],
+      "blocks": {
+        "rich_text_gYDndd": {
+          "settings": {
+            "alignment": "center",
+            "button_label": "",
+            "button_link": "",
+            "heading": "Zendrop builder",
+            "heading_size": "h1",
+            "space_between_items": 10,
+            "text": "<p>Welcome to the Zendrop builder section. Add rich text content here.</p>"
+          },
+          "type": "rich_text"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "alignment": "center",
+        "background_color": "#ffffff",
+        "button_color": "#2a324b",
+        "button_label_color": "#ffffff",
+        "columns": 1,
+        "display": "both",
+        "padding_bottom": 24,
+        "padding_top": 100,
+        "space_between_col": 16,
+        "space_between_row": 16,
+        "text_color": "#212240"
+      },
+      "type": "builder"
+    },
+    "collapsible_content_G6nVhX": {
+      "block_order": [
+        "collapsible_row_BFdNqY",
+        "collapsible_row_9BfGcP",
+        "collapsible_row_dAqCh8",
+        "collapsible_row_eRBDXT"
+      ],
+      "blocks": {
+        "collapsible_row_9BfGcP": {
+          "settings": {
+            "heading": "¿Es apta para pieles sensibles?",
+            "icon": "check_mark",
+            "page": "",
+            "row_content": "<p>Sí, es 100% hipoalergénica, libre de níquel y materiales irritantes.</p>"
+          },
+          "type": "collapsible_row"
+        },
+        "collapsible_row_BFdNqY": {
+          "settings": {
+            "heading": "¿De qué material está hecha?",
+            "icon": "check_mark",
+            "page": "",
+            "row_content": "<p>Fabricada en acero inoxidable con baño de oro 18k, garantiza durabilidad y un acabado premium que no se oscurece.</p>"
+          },
+          "type": "collapsible_row"
+        },
+        "collapsible_row_dAqCh8": {
+          "settings": {
+            "heading": "¿Cuánto tarda el envío a Colombia?",
+            "icon": "truck",
+            "page": "",
+            "row_content": "<p>Entre 5 a 10 días hábiles a cualquier ciudad de Colombia.</p>"
+          },
+          "type": "collapsible_row"
+        },
+        "collapsible_row_eRBDXT": {
+          "settings": {
+            "heading": "¿Cómo cuido mi pulsera?",
+            "icon": "leaf",
+            "page": "",
+            "row_content": "<p>Evita el contacto con agua, perfumes y cremas. Guárdala en su caja para mantener su brillo.</p>"
+          },
+          "type": "collapsible_row"
+        }
+      },
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "color_scheme": "scheme-3",
+        "container_color_scheme": "",
+        "desktop_layout": "image_second",
+        "heading": "Preguntas Frecuentes",
+        "heading_alignment": "center",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "layout": "none",
+        "open_first_collapsible_row": false,
+        "padding_bottom": 0,
+        "padding_top": 0
+      },
+      "type": "collapsible-content"
+    },
+    "colors_changer_aDXkpK": {
+      "disabled": true,
+      "settings": {
+        "accent": "#8472ed",
+        "accent_text": "#000000",
+        "button": "#000000",
+        "button_label": "#ffffff",
+        "outline_button": "#de2a2a",
+        "outline_button_label": "#000000",
+        "shadow": "#ffcc00",
+        "text": "#000000"
+      },
+      "type": "colors-changer"
+    },
+    "comparison_table_8w9TDA": {
+      "block_order": [
+        "row_YKPYKJ",
+        "row_ARqR97",
+        "row_izfNM9"
+      ],
+      "blocks": {
+        "row_ARqR97": {
+          "settings": {
+            "benefit": "Hipoalergénico",
+            "others": false,
+            "us": true
+          },
+          "type": "row"
+        },
+        "row_YKPYKJ": {
+          "settings": {
+            "benefit": "Baño de Oro 18k",
+            "others": false,
+            "us": true
+          },
+          "type": "row"
+        },
+        "row_izfNM9": {
+          "settings": {
+            "benefit": "Diseño Exclusivo",
+            "others": false,
+            "us": true
+          },
+          "type": "row"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "button_label": "Test",
+        "button_style_secondary": true,
+        "checkmark_color": "#c9a84c",
+        "heading_size": "h1",
+        "highlighted_overlay_opacity": 0,
+        "highlighted_separator_opacity": 0,
+        "layout": "table_second",
+        "link": "#",
+        "logo_width": 90,
+        "minimalistic_border_opacity": 16,
+        "mobile_logo_width": 60,
+        "opposite_icon_colors": "original",
+        "others_label": "Otras Marcas",
+        "others_label_size": 18,
+        "padding_bottom": 72,
+        "padding_top": 36,
+        "regular_overlay_opacity": 0,
+        "regular_separator_opacity": 10,
+        "style": "classic",
+        "text": "<p>Talk about how and why is your brand better than the others.</p><p></p>",
+        "title": "¿Por qué elegirnos?",
+        "title_cell_bg": "#c9a84c",
+        "title_cell_color": "#1a1a1a",
+        "us_label": "Nuestra Pulsera",
+        "us_label_size": 18,
+        "x_color": "#1a1a1a"
+      },
+      "type": "comparison-table"
+    },
+    "frequently_bought_together_z4GahM": {
+      "disabled": true,
+      "settings": {
+        "button_color": "#c9a84c",
+        "button_label": "Add all to cart",
+        "heading": "También te puede gustar",
+        "padding_bottom": 36,
+        "padding_top": 32,
+        "product_1": "",
+        "product_2": ""
+      },
+      "type": "frequently-bought-together"
+    },
+    "horizontal_ticker_RyAwyh": {
+      "block_order": [
+        "text_XKqggE",
+        "text_NnxmqT",
+        "text_8PGkfz"
+      ],
+      "blocks": {
+        "text_8PGkfz": {
+          "settings": {
+            "title": "Baño de Oro 18k · Envío a Colombia · Hipoalergénico · Devolución 30 días"
+          },
+          "type": "text"
+        },
+        "text_NnxmqT": {
+          "settings": {
+            "title": "Baño de Oro 18k · Envío a Colombia · Hipoalergénico · Devolución 30 días"
+          },
+          "type": "text"
+        },
+        "text_XKqggE": {
+          "settings": {
+            "title": "Baño de Oro 18k · Envío a Colombia · Hipoalergénico · Devolución 30 días"
+          },
+          "type": "text"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "background": "#1a1a1a",
+        "bold_text": false,
+        "desktop_padding_bottom": 16,
+        "desktop_padding_top": 16,
+        "desktop_spacing": 100,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "mobile_padding_bottom": 12,
+        "mobile_padding_top": 12,
+        "mobile_spacing": 60,
+        "mobile_text_size": 16,
+        "speed": 3,
+        "text": "#c9a84c",
+        "uppercase_text": false
+      },
+      "type": "horizontal-ticker"
+    },
+    "image_banner_8hqm7j": {
+      "block_order": [
+        "heading_Y8kXHQ",
+        "text_bfqbEt"
+      ],
+      "blocks": {
+        "heading_Y8kXHQ": {
+          "settings": {
+            "heading": "Eleva tu estilo sin esfuerzo",
+            "heading_size": "h1"
+          },
+          "type": "heading"
+        },
+        "text_bfqbEt": {
+          "settings": {
+            "text": "Su diseño elegante tipo trébol aporta un toque sofisticado que mejora cualquier outfit, desde looks casuales hasta ocasiones especiales.",
+            "text_style": "body"
+          },
+          "type": "text"
+        }
+      },
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "desktop_content_alignment": "center",
+        "desktop_content_position": "middle-center",
+        "image": "shopify://shop_images/176796969117523328571743637908492cc9fb58d83c67017e08f01af7fa23.jpg",
+        "image_behavior": "none",
+        "image_height": "medium",
+        "image_overlay_opacity": 0,
+        "mobile_content_alignment": "center",
+        "show_text_below": true,
+        "show_text_box": true,
+        "stack_images_on_mobile": true
+      },
+      "type": "image-banner"
+    },
+    "image_banner_NMq3CP": {
+      "block_order": [
+        "heading_hRM78N",
+        "text_WVjTEa"
+      ],
+      "blocks": {
+        "heading_hRM78N": {
+          "settings": {
+            "heading": "El regalo perfecto para cualquier ocasión",
+            "heading_size": "h1"
+          },
+          "type": "heading"
+        },
+        "text_WVjTEa": {
+          "settings": {
+            "text": "Su diseño elegante la convierte en un detalle ideal para cumpleaños, aniversarios o sorpresas especiales.",
+            "text_style": "body"
+          },
+          "type": "text"
+        }
+      },
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "desktop_content_alignment": "center",
+        "desktop_content_position": "middle-center",
+        "image": "shopify://shop_images/ChatGPT_Image_25_mar_2026_05_31_45_p.m..png",
+        "image_behavior": "none",
+        "image_height": "medium",
+        "image_overlay_opacity": 0,
+        "mobile_content_alignment": "center",
+        "show_text_below": true,
+        "show_text_box": true,
+        "stack_images_on_mobile": true
+      },
+      "type": "image-banner"
+    },
+    "image_banner_ecp8tc": {
+      "block_order": [
+        "heading_QRPCYG",
+        "text_WKcLhE"
+      ],
+      "blocks": {
+        "heading_QRPCYG": {
+          "settings": {
+            "heading": "Luce una joya con apariencia premium",
+            "heading_size": "h1"
+          },
+          "type": "heading"
+        },
+        "text_WKcLhE": {
+          "settings": {
+            "text": "Cuenta con un acabado <strong>bañado en oro</strong> que brinda un brillo delicado y una estética inspirada en las tendencias de lujo.",
+            "text_style": "body"
+          },
+          "type": "text"
+        }
+      },
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "desktop_content_alignment": "center",
+        "desktop_content_position": "middle-center",
+        "image": "shopify://shop_images/ChatGPT_Image_25_mar_2026_04_31_32_p.m..png",
+        "image_behavior": "none",
+        "image_height": "medium",
+        "image_overlay_opacity": 0,
+        "mobile_content_alignment": "center",
+        "show_text_below": true,
+        "show_text_box": true,
+        "stack_images_on_mobile": true
+      },
+      "type": "image-banner"
+    },
+    "image_slider_xpnX9m": {
+      "block_order": [
+        "video_slide_wjmfTw",
+        "video_slide_tgNpGi",
+        "video_slide_bYWVMH",
+        "video_slide_MyitKH"
+      ],
+      "blocks": {
+        "video_slide_MyitKH": {
+          "settings": {
+            "video": "shopify://files/videos/download (3).mp4"
+          },
+          "type": "video_slide"
+        },
+        "video_slide_bYWVMH": {
+          "settings": {
+            "video": "shopify://files/videos/download (1).mp4"
+          },
+          "type": "video_slide"
+        },
+        "video_slide_tgNpGi": {
+          "settings": {
+            "video": "shopify://files/videos/download (2).mp4"
+          },
+          "type": "video_slide"
+        },
+        "video_slide_wjmfTw": {
+          "settings": {
+            "video": "shopify://files/videos/download.mp4"
+          },
+          "type": "video_slide"
+        }
+      },
+      "name": "Image/Video Slider",
+      "settings": {
+        "arrows": true,
+        "autoplay": true,
+        "center_align": false,
+        "dots": true,
+        "heading": "Únete a más de 1000 clientes satisfechos",
+        "infinite": true,
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "slides_to_scroll": 1,
+        "slides_to_show": 3,
+        "slides_to_show_mobile": 3
+      },
+      "type": "image-slider"
+    },
+    "main": {
+      "block_order": [
+        "rating_stars_yRDU98",
+        "urgency_Cy48Ac",
+        "title",
+        "text_gdk7Xb",
+        "text_nPLRzz",
+        "text_XnF4e7",
+        "text_eJeWwB",
+        "price",
+        "quantity_discounts_GxKr68",
+        "icon_with_text_q3DCR7",
+        "quantity_selector_CBnrq3",
+        "variant_picker",
+        "buy_buttons",
+        "shipping_estimator_eJ9Kpa",
+        "reviews_UwxAAn",
+        "collapsible_tab_ziMbNA",
+        "collapsible_tab_tjQgHV",
+        "collapsible_tab_7FjCx6",
+        "collapsible_tab_AYiB3M",
+        "collapsible_tab_znrpit",
+        "sticky_atc_XcXbr4"
+      ],
+      "blocks": {
+        "buy_buttons": {
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          },
+          "type": "buy_buttons"
+        },
+        "collapsible_tab_7FjCx6": {
+          "settings": {
+            "content": "<p><strong>Envío Gratis a Todo Colombia:</strong></p><p>Ofrecemos <strong>envío completamente GRATIS</strong> a cualquier rincón de Colombia, sin importar dónde vivas. Tu pulsera de lujo llegará a tu puerta sin costos adicionales.</p><p><strong>Tiempos de Entrega:</strong></p><p>• <strong>3 a 7 días hábiles</strong> después de confirmar tu compra<br/>• Entrega más rápida en ciudades principales (Bogotá, Medellín, Cali, Barranquilla)<br/>• Seguimiento en tiempo real de tu pedido<br/>• Notificaciones por SMS y correo electrónico</p><p><strong>Opciones de Pago:</strong></p><p>✓ <strong>Pago Contra Entrega (COD)</strong> - Paga cuando recibas el producto<br/>✓ Tarjeta de crédito/débito<br/>✓ Transferencia bancaria<br/>✓ Billetera digital (Nequi, Daviplata, etc.)<br/>✓ Crédito con Klarna (sin intereses)</p><p><strong>Empaque Premium:</strong></p><p>Tu pulsera llega en una caja de presentación elegante, perfecta para regalo. Incluye:</p><p>• Caja de lujo con logo VEXORA<br/>• Paño de microfibra para limpiar<br/>• Certificado de autenticidad<br/>• Instrucciones de cuidado<br/>• Asegurado contra daños durante el transporte</p><p><strong>Compra con tranquilidad.</strong> Tu confianza es nuestra prioridad.</p>",
+            "heading": "¿Cuánto tarda el envío? ¿Puedo pagar contra entrega?",
+            "icon": "truck",
+            "page": ""
+          },
+          "type": "collapsible_tab"
+        },
+        "collapsible_tab_AYiB3M": {
+          "settings": {
+            "content": "<p><strong>Resistencia al Agua:</strong></p><p>Aunque el acero inoxidable es resistente a la corrosión, <strong>NO recomendamos</strong> el contacto prolongado con agua. El baño de oro puede deteriorarse con la exposición constante a agua, cloro o químicos.</p><p><strong>¿Cuándo debo quitarme la pulsera?</strong></p><p>• Antes de bañarte o duchar<br/>• Antes de nadar o ir a la piscina<br/>• Antes de hacer ejercicio o deportes<br/>• Antes de lavar platos o limpiar<br/>• Antes de aplicar perfumes o lociones</p><p><strong>Cuidado y Mantenimiento Premium:</strong></p><p><strong>Limpieza Diaria:</strong><br/>• Limpia suavemente con un paño de microfibra seco después de cada uso<br/>• Esto elimina el polvo y mantiene el brillo<br/>• Toma solo 10 segundos</p><p><strong>Limpieza Profunda (Mensual):</strong><br/>• Usa agua tibia con jabón neutro<br/>• Frota suavemente con un cepillo de cerdas suaves<br/>• Seca inmediatamente con paño de microfibra<br/>• Nunca uses productos químicos agresivos</p><p><strong>Almacenamiento Correcto:</strong><br/>• Guarda en un lugar seco y protegido<br/>• Preferiblemente en la caja de presentación original<br/>• Evita la exposición prolongada a luz solar directa<br/>• Mantén alejado de humedad y temperaturas extremas</p><p><strong>Protección del Baño de Oro:</strong><br/>• Evita el contacto con perfumes, lociones y desodorantes<br/>• No uses limpiadores ultrasónicos<br/>• No expongas a cloro o agua salada<br/>• Con el cuidado adecuado, el baño de oro durará años</p><p><strong>Servicio de Mantenimiento:</strong><br/>Si después de tiempo el baño de oro se desgasta, ofrecemos servicio de re-baño de oro a precio especial para clientes VEXORA.</p>",
+            "heading": "¿Es resistente al agua? ¿Cómo debo cuidar mi pulsera?",
+            "icon": "star",
+            "page": ""
+          },
+          "type": "collapsible_tab"
+        },
+        "collapsible_tab_tjQgHV": {
+          "settings": {
+            "content": "<p><strong>Garantía Premium de VEXORA:</strong></p><p>Confiamos plenamente en la calidad de nuestras pulseras. Por eso ofrecemos:</p><p><strong>✓ Garantía de 3 meses</strong> contra defectos de fabricación<br/><strong>✓ Certificado de autenticidad</strong> incluido con cada compra<br/><strong>✓ Inspección de calidad rigurosa</strong> antes del envío<br/><strong>✓ Derecho a cambio o devolución</strong> dentro de 30 días si no estás completamente satisfecho<br/><strong>✓ Servicio de reparación y mantenimiento</strong> disponible<br/><strong>✓ Soporte al cliente dedicado</strong> en español</p><p><strong>¿Cómo funciona la devolución?</strong></p><p>Si por cualquier razón no estás satisfecho con tu compra, tienes 30 días para solicitar un cambio o devolución. El proceso es simple:</p><p>1. Contacta a nuestro equipo de atención al cliente<br/>2. Envía fotos del producto (sin usar)<br/>3. Nosotros nos encargamos del envío de retorno<br/>4. Recibirás tu reembolso o cambio en máximo 5 días hábiles</p><p><strong>Tu inversión en lujo está protegida.</strong> Cada pulsera Trébol Van Cleef es inspeccionada personalmente para garantizar que cumple con nuestros estándares de excelencia.</p>",
+            "heading": "¿Tienen garantía? ¿Puedo devolver si no me gusta?",
+            "icon": "check_mark",
+            "page": ""
+          },
+          "type": "collapsible_tab"
+        },
+        "collapsible_tab_ziMbNA": {
+          "settings": {
+            "content": "<p><strong>Material Premium de Lujo:</strong></p><p>Nuestra Pulsera Trébol Van Cleef está confeccionada con <strong>acero inoxidable de grado quirúrgico</strong>, un material de la más alta calidad que garantiza durabilidad y resistencia excepcional.</p><p><strong>Acabado Dorado:</strong></p><p>• Baño de oro de 18 quilates de alta densidad<br/>• Acabado pulido espejo de precisión<br/>• Brillo duradero y resistente al desgaste<br/>• Hipoalergénico y seguro para pieles sensibles</p><p><strong>¿Por qué este material?</strong></p><p>El acero inoxidable quirúrgico es el mismo material utilizado en joyería de lujo de alta gama. Es resistente a la corrosión, no se oxida y mantiene su brillo durante años con el cuidado adecuado. El baño de oro de 18 quilates proporciona ese acabado premium y elegante que caracteriza a las pulseras Van Cleef.</p><p><strong>Certificación:</strong> Cada pulsera viene con certificado de autenticidad que verifica la calidad del material.</p>",
+            "heading": "¿De qué material está hecha la pulsera?",
+            "icon": "clipboard",
+            "page": ""
+          },
+          "type": "collapsible_tab"
+        },
+        "collapsible_tab_znrpit": {
+          "settings": {
+            "content": "<p><strong>¿Qué talla debo elegir?</strong></p><p>Nuestra Pulsera Trébol Van Cleef es <strong>ajustable de 16 a 20 cm de circunferencia</strong>, lo que la hace perfecta para la mayoría de las muñecas.</p><p><strong>Cómo medir tu muñeca:</strong><br/>• Usa una cinta métrica o un hilo<br/>• Mide alrededor de tu muñeca (donde normalmente usas la pulsera)<br/>• Debe quedar cómoda, ni muy apretada ni muy suelta<br/>• Si tu medida está entre 16-20 cm, esta pulsera es perfecta para ti</p><p><strong>¿Es cómoda para usar a diario?</strong></p><p>Sí, absolutamente. La pulsera pesa solo <strong>aproximadamente 8 gramos</strong>, lo que la hace:</p><p>• Ligera y cómoda para usar todo el día<br/>• No causa molestias ni irritación<br/>• Perfecta para uso diario u ocasiones especiales<br/>• Ideal para niñas, adolescentes y mujeres adultas</p><p><strong>¿Con qué puedo combinarla?</strong></p><p>La Pulsera Trébol Van Cleef es <strong>extremadamente versátil</strong>:</p><p>• <strong>Look Casual:</strong> Combina perfectamente con jeans, camisetas y ropa deportiva<br/>• <strong>Look Elegante:</strong> Ideal para vestidos, faldas y outfits formales<br/>• <strong>Look Minimalista:</strong> El diseño del trébol es sutil y sofisticado<br/>• <strong>Stacking:</strong> Puedes usar varias pulseras juntas para un look más llamativo<br/>• <strong>Cualquier ocasión:</strong> Desde el trabajo hasta una cena especial</p><p><strong>¿Es un buen regalo?</strong></p><p>Absolutamente. La Pulsera Trébol Van Cleef es el regalo perfecto para:</p><p>• Cumpleaños<br/>• Aniversarios<br/>• Graduaciones<br/>• Día de la mujer<br/>• Navidad<br/>• Cualquier ocasión especial</p><p>Viene en una <strong>caja de presentación de lujo</strong> lista para regalar, con certificado de autenticidad e instrucciones de cuidado.</p><p><strong>Nota:</strong> Si tienes dudas sobre tu talla o necesitas ayuda para elegir, nuestro equipo de atención al cliente está disponible para asesorarte sin compromiso.</p>",
+            "heading": "Tallas, ajuste y versatilidad",
+            "icon": "ruler",
+            "page": ""
+          },
+          "type": "collapsible_tab"
+        },
+        "icon_with_text_q3DCR7": {
+          "disabled": true,
+          "settings": {
+            "heading_1": "🔒 Pago Seguro",
+            "heading_2": "🚚 Envío Gratis",
+            "heading_3": "✨ Devolución 30 días",
+            "icon_1": "lock",
+            "icon_2": "truck",
+            "icon_3": "return",
+            "layout": "horizontal"
+          },
+          "type": "icon-with-text"
+        },
+        "price": {
+          "settings": {},
+          "type": "price"
+        },
+        "quantity_discounts_GxKr68": {
+          "disabled": true,
+          "settings": {
+            "most_popular": "GET TWO",
+            "option1_compare_at_price": "89900",
+            "option1_heading": "Compra Uno",
+            "option1_price": "69900",
+            "option1_quantity": 1,
+            "option1_text": "You save [saved]",
+            "option2_compare_at_price": "",
+            "option2_heading": "Compra Dos",
+            "option2_price": "69900",
+            "option2_quantity": 2,
+            "option2_text": "You save [saved]",
+            "option3_compare_at_price": "",
+            "option3_heading": "Compra 3",
+            "option3_price": "",
+            "option3_quantity": 3,
+            "option3_text": "You save [saved]",
+            "option4_compare_at_price": "",
+            "option4_heading": "",
+            "option4_price": "",
+            "option4_quantity": 4,
+            "option4_text": ""
+          },
+          "type": "quantity_discounts"
+        },
+        "quantity_selector_CBnrq3": {
+          "disabled": true,
+          "settings": {},
+          "type": "quantity_selector"
+        },
+        "rating_stars_yRDU98": {
+          "settings": {
+            "alignment": "flex-start",
+            "bg_star_color": "#ececec",
+            "bg_stars_style": "full",
+            "label": "(Calificación: 4.8 de 5 estrellas) +1000 clientes satisfechos",
+            "rating": 4.8,
+            "scroll_id": "#zendrop-builder--template--16817198104712__builder_JUkPnd",
+            "star_color": "#c9a84c"
+          },
+          "type": "rating_stars"
+        },
+        "reviews_UwxAAn": {
+          "settings": {
+            "author_1": "<em>Valentina Ospina</em>",
+            "author_2": "<em>Daniela Martínez</em>",
+            "author_3": "<em>Camila Restrepo</em>",
+            "avatar_alignment": "top",
+            "display_stars": true,
+            "star_color": "#ffcc00",
+            "text_1": "<p>La compré en color plateado y es hermosa. Se ve exactamente como en las fotos, el brillo es increíble. Llevo dos meses usándola a diario y sigue igual. ¡Vale cada peso!</p>",
+            "text_2": "<p>La pedí como regalo de cumpleaños y quedé encantada. El trébol es delicado y muy bien hecho. Ya la usé en la piscina y no perdió el color para nada. Super recomendada.</p>",
+            "text_3": "<p>Compré la dorada y la negra. Las dos son preciosas. Combinan con todo, desde ropa casual hasta para salir elegante. Mucha gente me ha preguntado dónde las conseguí 😍</p>"
+          },
+          "type": "reviews"
+        },
+        "shipping_estimator_eJ9Kpa": {
+          "settings": {
+            "buffer_days": 2,
+            "estimator_text": "COMPRA AHORA Y RECIBE EN [days] DÍAS",
+            "fulfilment_days": 1,
+            "position": "center",
+            "shipping_days": 3,
+            "show_icon": true
+          },
+          "type": "shipping_estimator"
+        },
+        "sticky_atc_XcXbr4": {
+          "disabled": true,
+          "settings": {
+            "alignment": "left",
+            "bg_star_color": "#e0e0e0",
+            "bg_stars_style": "outlined",
+            "button_label": "Agregar al Carrito",
+            "custom_bar_color": "#ffffff",
+            "label": "4.5 out of 5 stars",
+            "rating": 5,
+            "size": 24,
+            "star_color": "#c9a84c"
+          },
+          "type": "sticky_atc"
+        },
+        "text_XnF4e7": {
+          "settings": {
+            "text": "🖤 Elegante para cualquier ocasión",
+            "text_style": "body"
+          },
+          "type": "text"
+        },
+        "text_eJeWwB": {
+          "settings": {
+            "text": "🎁 El regalo perfecto",
+            "text_style": "body"
+          },
+          "type": "text"
+        },
+        "text_gdk7Xb": {
+          "settings": {
+            "text": "✨ Eleva tu estilo al instante",
+            "text_style": "body"
+          },
+          "type": "text"
+        },
+        "text_nPLRzz": {
+          "settings": {
+            "text": "💎 Acabado bañado en oro de 10k",
+            "text_style": "body"
+          },
+          "type": "text"
+        },
+        "title": {
+          "settings": {},
+          "type": "title"
+        },
+        "urgency_Cy48Ac": {
+          "settings": {
+            "background_color": "#1a1a1a",
+            "padding": 0,
+            "position": "center",
+            "text_color": "#c9a84c",
+            "urgency": "COLECCIÓN EXCLUSIVA |APROVECHA NUESTRAS ÚLTIMAS OFERTAS DISPONIBLES"
+          },
+          "type": "urgency"
+        },
+        "variant_picker": {
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          },
+          "type": "variant_picker"
+        }
+      },
+      "settings": {
+        "color_scheme": "scheme-1",
+        "constrain_to_viewport": true,
+        "enable_sticky_info": true,
+        "enable_video_looping": true,
+        "gallery_layout": "thumbnail_slider",
+        "hide_variants": false,
+        "image_zoom": "none",
+        "media_fit": "contain",
+        "media_position": "left",
+        "media_size": "small",
+        "mobile_thumbnails": "hide",
+        "padding_bottom": 0,
+        "padding_top": 0
+      },
+      "type": "main-product"
+    },
+    "multicolumn_wcnnPa": {
+      "block_order": [
+        "column_Yp8NR8",
+        "column_V8E3aq",
+        "column_YRCLcB"
+      ],
+      "blocks": {
+        "column_V8E3aq": {
+          "settings": {
+            "icon": "leaf",
+            "link": "",
+            "link_label": "",
+            "text": "<p>Apto para pieles sensibles, sin níquel ni materiales irritantes</p>",
+            "title": "Hipoalergénico"
+          },
+          "type": "column"
+        },
+        "column_YRCLcB": {
+          "settings": {
+            "icon": "heart",
+            "link": "",
+            "link_label": "",
+            "text": "<p>Inspirado en la alta joyería mundial</p>",
+            "title": "Diseño Exclusivo"
+          },
+          "type": "column"
+        },
+        "column_Yp8NR8": {
+          "settings": {
+            "icon": "star",
+            "link": "",
+            "link_label": "",
+            "text": "<p>Acabado premium que mantiene su brillo y no oscurece con el tiempo</p>",
+            "title": "Baño de Oro 18k"
+          },
+          "type": "column"
+        }
+      },
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "column_alignment": "center",
+        "columns_desktop": 5,
+        "columns_mobile": "2",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "image_width": "full",
+        "padding_bottom": 80,
+        "padding_top": 80,
+        "swipe_on_mobile": true,
+        "title": "¿Por qué nuestros clientes nos eligen?"
+      },
+      "type": "multicolumn"
+    },
+    "results_WgRpTd": {
+      "block_order": [
+        "row_QXgrNf",
+        "row_tJ64Nz",
+        "row_B8FVLN"
+      ],
+      "blocks": {
+        "row_B8FVLN": {
+          "settings": {
+            "percentage": 90,
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
+          },
+          "type": "row"
+        },
+        "row_QXgrNf": {
+          "settings": {
+            "percentage": 50,
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
+          },
+          "type": "row"
+        },
+        "row_tJ64Nz": {
+          "settings": {
+            "percentage": 90,
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
+          },
+          "type": "row"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "border_color": "#0d48e9",
+        "caption": "<p>Caption about the results and/or link for their proof.</p>",
+        "heading_size": "h1",
+        "layout": "results_second",
+        "padding_bottom": 36,
+        "padding_top": 72,
+        "results_headline": "Results heading",
+        "results_headline_alignment": "left",
+        "results_headline_size": "h2",
+        "text": "<p>Talk about results of your customers and how your product improved their life.</p>",
+        "title": "Results"
+      },
+      "type": "results"
+    },
+    "rich_text_Hn3Njc": {
+      "block_order": [
+        "heading_ncBqrJ",
+        "text_FqpxaV"
+      ],
+      "blocks": {
+        "heading_ncBqrJ": {
+          "settings": {
+            "heading": "Bisutería que Trasciende el Tiempo",
+            "heading_size": "h1"
+          },
+          "type": "heading"
+        },
+        "text_FqpxaV": {
+          "settings": {
+            "text": "<p>Cada pieza es seleccionada con cuidado, combinando materiales de alta calidad con diseños atemporales que realzan tu belleza natural.</p>"
+          },
+          "type": "text"
+        }
+      },
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "content_alignment": "center",
+        "desktop_content_position": "center",
+        "full_width": true,
+        "padding_bottom": 0,
+        "padding_top": 0
+      },
+      "type": "rich-text"
+    },
+    "section_divider_7c9mQN": {
+      "settings": {
+        "background_color": "#ffffff",
+        "flip_horizontal": true,
+        "flip_vertical": false,
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "shape": "waves_3",
+        "shape_color": "#111111"
+      },
+      "type": "section-divider"
+    },
+    "section_divider_CdnArQ": {
+      "settings": {
+        "background_color": "#ffffff",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "shape": "waves_3",
+        "shape_color": "#111111"
+      },
+      "type": "section-divider"
+    },
+    "section_divider_JrJtpH": {
+      "settings": {
+        "background_color": "#ffffff",
+        "flip_horizontal": false,
+        "flip_vertical": true,
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "shape": "waves_3",
+        "shape_color": "#111111"
+      },
+      "type": "section-divider"
+    },
+    "section_divider_UeiT8c": {
+      "settings": {
+        "background_color": "#ffffff",
+        "flip_horizontal": true,
+        "flip_vertical": true,
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "shape": "waves_3",
+        "shape_color": "#111111"
+      },
+      "type": "section-divider"
+    },
+    "section_divider_eG4pDC": {
+      "settings": {
+        "background_color": "#ffffff",
+        "flip_horizontal": false,
+        "flip_vertical": true,
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "shape": "waves_3",
+        "shape_color": "#111111"
+      },
+      "type": "section-divider"
+    },
+    "testimonials_BafDBW": {
+      "block_order": [
+        "column_kFzEn6",
+        "column_PXefCU",
+        "column_xzd6Uc"
+      ],
+      "blocks": {
+        "column_PXefCU": {
+          "settings": {
+            "author": "<strong>Camila R.</strong> — Medellín",
+            "image": "shopify://shop_images/2.png",
+            "image_pos": "below_description",
+            "text": "<p>Me la regalé a mí misma y no me arrepiento. Se ve muy fina y la calidad es buena para el precio. El pago contra entrega me dio mucha confianza para comprar.</p>",
+            "title": "Camila R."
+          },
+          "type": "column"
+        },
+        "column_kFzEn6": {
+          "settings": {
+            "author": "<strong>Valentina M.</strong> — Bogotá",
+            "image": "shopify://shop_images/1.png",
+            "image_pos": "below_description",
+            "text": "<p>La pulsera es preciosa, exactamente como en las fotos. La recibí en 5 días y el empaque se veía muy elegante. La uso todos los días y no ha perdido el brillo.</p>",
+            "title": "Valentina M."
+          },
+          "type": "column"
+        },
+        "column_xzd6Uc": {
+          "settings": {
+            "author": "<strong>Daniela P.</strong> — Cali",
+            "image": "shopify://shop_images/3.png",
+            "image_pos": "below_description",
+            "text": "<p>Bonita pulsera, el trébol de cuatro hojas se ve delicado y elegante. El envío tardó unos días más de lo esperado pero llegó en perfecto estado.</p>",
+            "title": "Daniela P."
+          },
+          "type": "column"
+        }
+      },
+      "name": "Testimonials",
+      "settings": {
+        "background_color": "#f8f8f9",
+        "gap": 8,
+        "padding_bottom": 0,
+        "padding_top": 0,
+        "show_quotes": false,
+        "show_stars": true,
+        "stars_color": "#ffd700",
+        "testimonials_per_row": 3,
+        "title": "Lo que dicen nuestros clientes"
+      },
+      "type": "testimonials"
+    },
+    "testimonials_RPWf8i": {
+      "block_order": [
+        "column_DETLhB",
+        "column_4xMFRq",
+        "column_QC84RN"
+      ],
+      "blocks": {
+        "column_4xMFRq": {
+          "settings": {
+            "author": "<em><strong>Catalina R.</strong></em>",
+            "image_pos": "above_stars",
+            "text": "<p>Llegó en perfectas condiciones, bien empacada. El servicio al cliente fue excelente y muy atento a mis dudas.</p>",
+            "title": "Envío Rápido y Seguro"
+          },
+          "type": "column"
+        },
+        "column_DETLhB": {
+          "settings": {
+            "author": "<em><strong>María G.</strong></em>",
+            "image_pos": "below_description",
+            "text": "<p>La calidad es excepcional. El baño de oro se ve lujoso y el diseño es muy elegante. Definitivamente volveré a comprar.</p>",
+            "title": "Joya Perfecta"
+          },
+          "type": "column"
+        },
+        "column_QC84RN": {
+          "settings": {
+            "author": "<em><strong>Valentina M.</strong></em>",
+            "image_pos": "above_stars",
+            "text": "<p>Superaron mis expectativas. Las joyas son más hermosas en persona. Perfecto para regalos especiales.</p>",
+            "title": "Mejor que Esperaba"
+          },
+          "type": "column"
+        }
+      },
+      "disabled": true,
+      "settings": {
+        "background_color": "#f5f0e8",
+        "gap": 20,
+        "padding_bottom": 80,
+        "padding_top": 80,
+        "show_quotes": true,
+        "show_stars": true,
+        "stars_color": "#c9a84c",
+        "testimonials_per_row": 3,
+        "title": "Lo que Dicen Nuestras Clientas"
+      },
+      "type": "testimonials"
+    }
+  }
+}

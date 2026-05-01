@@ -1,1 +1,37 @@
-{"sections":{"gp_section_615878116971119123":{"settings":{"checksum":"812658b4be1ce366171f8122a60f2b2b0401ce103c269006718bf93cd717bd53_1_1_1_0__1","ggBIWEOgGvT_srcSet_desktop_src":"https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg","ggBIWEOgGvT_srcSet_mobile_src":"https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_17_56_p.m..png","ggMAH2iEXku_srcSet_desktop_src":"https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg","ggMAH2iEXku_srcSet_mobile_src":"https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_14_48_p.m..png","ggcZ8DE1XEa_srcSet_desktop_src":"https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg","ggcZ8DE1XEa_srcSet_mobile_src":"https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_05_16_p.m..png","ggfj2-Ci1et_srcSet_desktop_src":"https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg","ggfj2-Ci1et_srcSet_mobile_src":"https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_07_16_p.m..png","ggk7pogMHIY_srcSet_desktop_src":"https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg","ggk7pogMHIY_srcSet_mobile_src":"https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_10_26_p.m..png","ggoeTFfauAE_srcSet_desktop_src":"https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg","ggoeTFfauAE_srcSet_mobile_src":"https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_25_18_p.m..png","ggsUDaSQnmu_srcSet_desktop_src":"https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg","ggsUDaSQnmu_srcSet_mobile_src":"https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_01_55_p.m..png","section_preload":"true"},"type":"gp-section-615878116971119123"}},"order":["gp_section_615878116971119123"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_615878116971119123": {
+      "settings": {
+        "checksum": "812658b4be1ce366171f8122a60f2b2b0401ce103c269006718bf93cd717bd53_1_1_0_0__1",
+        "ggBIWEOgGvT_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggBIWEOgGvT_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_17_56_p.m..png",
+        "ggMAH2iEXku_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggMAH2iEXku_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_14_48_p.m..png",
+        "ggcZ8DE1XEa_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggcZ8DE1XEa_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_05_16_p.m..png",
+        "ggfj2-Ci1et_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggfj2-Ci1et_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_07_16_p.m..png",
+        "ggk7pogMHIY_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggk7pogMHIY_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_10_26_p.m..png",
+        "ggoeTFfauAE_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggoeTFfauAE_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_25_18_p.m..png",
+        "ggsUDaSQnmu_srcSet_desktop_src": "https://cdn.shopify.com/s/files/1/2005/9307/files/image_demo.jpg",
+        "ggsUDaSQnmu_srcSet_mobile_src": "https://cdn.shopify.com/s/files/1/0716/1505/3955/files/ChatGPT_Image_19_abr_2026_02_01_55_p.m..png",
+        "section_preload": "true"
+      },
+      "type": "gp-section-615878116971119123"
+    }
+  },
+  "order": [
+    "gp_section_615878116971119123"
+  ]
+}
