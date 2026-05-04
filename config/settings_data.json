@@ -9,221 +9,132 @@
  */
 {
   "current": {
-    "animations_hover_elements": "none",
-    "animations_reveal_on_scroll": true,
-    "badge_corner_radius": 40,
-    "badge_position": "bottom left",
-    "blocks": {
-      "12075128526103414267": {
-        "disabled": false,
-        "settings": {
-          "hide_quantity": false,
-          "custom_placement_selector": "",
-          "add_to_cart_button_selector": "",
-          "quantity_container_selector": "",
-          "quantity_input_selector": "",
-          "variants_container_selector": "",
-          "product_form_selector": "",
-          "custom_css": ""
-        },
-        "type": "shopify://apps/bundlex/blocks/volume-discount-embed/c017a4b2-071a-4809-a2c2-1c5768f46bb9"
-      },
-      "13669795325273674392": {
-        "disabled": false,
-        "settings": {},
-        "type": "shopify://apps/releasit-cod-form/blocks/app-embed/72faf214-4174-4fec-886b-0d0e8d3af9a2"
-      },
-      "14060646107696862457": {
-        "disabled": false,
-        "settings": {},
-        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8"
-      },
-      "2200952712151285029": {
-        "disabled": false,
-        "settings": {},
-        "type": "shopify://apps/microsoft-clarity/blocks/brandAgents_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea"
-      },
-      "2567389343055140935": {
-        "disabled": false,
-        "settings": {},
-        "type": "shopify://apps/microsoft-clarity/blocks/clarity_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea"
-      },
-      "615878013053043219": {
-        "disabled": false,
-        "settings": {},
-        "type": "shopify://apps//blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3"
-      },
-      "7313114205116804392": {
-        "disabled": false,
-        "settings": {},
-        "type": "shopify://apps/propel-replays-heatmaps/blocks/app-embed/64fbaaa3-2d4a-49f3-aba7-86e92e44999f"
-      },
-      "8208493610395315515": {
-        "disabled": false,
-        "settings": {},
-        "type": "shopify://apps/dondy-whatsapp/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6"
-      }
-    },
-    "blog_card_border_opacity": 15,
-    "blog_card_border_thickness": 1,
-    "blog_card_color_scheme": "scheme-1",
-    "blog_card_corner_radius": 8,
-    "blog_card_image_padding": 0,
-    "blog_card_shadow_blur": 5,
-    "blog_card_shadow_horizontal_offset": 0,
-    "blog_card_shadow_opacity": 5,
-    "blog_card_shadow_vertical_offset": 4,
-    "blog_card_style": "standard",
-    "blog_card_text_alignment": "left",
+    "logo": "shopify://shop_images/Diseno_sin_titulo_8.png",
+    "logo_width": 180,
+    "favicon": "shopify://shop_images/Captura_de_pantalla_2026-03-22_085448.png",
+    "type_header_font": "playfair_display_n4",
+    "heading_scale": 110,
+    "type_body_font": "lato_n4",
     "body_scale": 100,
-    "brand_description": "<p>Joyería de lujo para mujeres que se atreven a brillar. Envíos a todo Colombia.</p><p><strong>Pago contra entrega · Envío gratis · Garantía de 3 meses</strong></p>",
-    "brand_headline": "VEXORA",
-    "brand_image_width": 100,
-    "buttons_border_opacity": 100,
+    "page_width": 1400,
+    "spacing_sections": 40,
+    "spacing_grid_horizontal": 16,
+    "spacing_grid_vertical": 12,
+    "animations_reveal_on_scroll": true,
+    "animations_hover_elements": "none",
     "buttons_border_thickness": 1,
+    "buttons_border_opacity": 100,
     "buttons_radius": 4,
-    "buttons_shadow_blur": 5,
-    "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_opacity": 5,
+    "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
-    "card_border_opacity": 15,
-    "card_border_thickness": 1,
-    "card_color_scheme": "scheme-1",
-    "card_corner_radius": 8,
-    "card_image_padding": 0,
-    "card_shadow_blur": 15,
-    "card_shadow_horizontal_offset": 0,
-    "card_shadow_opacity": 10,
-    "card_shadow_vertical_offset": 0,
+    "buttons_shadow_blur": 5,
+    "variant_pills_border_thickness": 1,
+    "variant_pills_border_opacity": 30,
+    "variant_pills_radius": 20,
+    "variant_pills_shadow_opacity": 0,
+    "variant_pills_shadow_horizontal_offset": 0,
+    "variant_pills_shadow_vertical_offset": 4,
+    "variant_pills_shadow_blur": 5,
+    "inputs_border_thickness": 1,
+    "inputs_border_opacity": 30,
+    "inputs_radius": 6,
+    "inputs_shadow_opacity": 0,
+    "inputs_shadow_horizontal_offset": 0,
+    "inputs_shadow_vertical_offset": 4,
+    "inputs_shadow_blur": 5,
     "card_style": "card",
+    "card_image_padding": 0,
     "card_text_alignment": "center",
+    "card_color_scheme": "scheme-1",
+    "card_border_thickness": 1,
+    "card_border_opacity": 15,
+    "card_corner_radius": 8,
+    "card_shadow_opacity": 10,
+    "card_shadow_horizontal_offset": 0,
+    "card_shadow_vertical_offset": 0,
+    "card_shadow_blur": 15,
+    "collection_card_style": "card",
+    "collection_card_image_padding": 0,
+    "collection_card_text_alignment": "left",
+    "collection_card_color_scheme": "scheme-1",
+    "collection_card_border_thickness": 1,
+    "collection_card_border_opacity": 15,
+    "collection_card_corner_radius": 8,
+    "collection_card_shadow_opacity": 5,
+    "collection_card_shadow_horizontal_offset": 0,
+    "collection_card_shadow_vertical_offset": 4,
+    "collection_card_shadow_blur": 5,
+    "blog_card_style": "standard",
+    "blog_card_image_padding": 0,
+    "blog_card_text_alignment": "left",
+    "blog_card_color_scheme": "scheme-1",
+    "blog_card_border_thickness": 1,
+    "blog_card_border_opacity": 15,
+    "blog_card_corner_radius": 8,
+    "blog_card_shadow_opacity": 5,
+    "blog_card_shadow_horizontal_offset": 0,
+    "blog_card_shadow_vertical_offset": 4,
+    "blog_card_shadow_blur": 5,
+    "text_boxes_border_thickness": 1,
+    "text_boxes_border_opacity": 10,
+    "text_boxes_radius": 8,
+    "text_boxes_shadow_opacity": 5,
+    "text_boxes_shadow_horizontal_offset": 0,
+    "text_boxes_shadow_vertical_offset": 4,
+    "text_boxes_shadow_blur": 5,
+    "media_border_thickness": 1,
+    "media_border_opacity": 10,
+    "media_radius": 8,
+    "media_shadow_opacity": 5,
+    "media_shadow_horizontal_offset": 0,
+    "media_shadow_vertical_offset": -4,
+    "media_shadow_blur": 5,
+    "popup_border_thickness": 1,
+    "popup_border_opacity": 15,
+    "popup_corner_radius": 8,
+    "popup_shadow_opacity": 10,
+    "popup_shadow_horizontal_offset": 0,
+    "popup_shadow_vertical_offset": 4,
+    "popup_shadow_blur": 5,
+    "drawer_border_thickness": 1,
+    "drawer_border_opacity": 15,
+    "drawer_shadow_opacity": 10,
+    "drawer_shadow_horizontal_offset": 0,
+    "drawer_shadow_vertical_offset": 4,
+    "drawer_shadow_blur": 5,
+    "badge_position": "bottom left",
+    "badge_corner_radius": 40,
+    "sale_badge_color_scheme": "scheme-4",
+    "sold_out_badge_color_scheme": "scheme-4",
+    "brand_headline": "VEXORA",
+    "brand_description": "<p>Joyería de lujo para mujeres que se atreven a brillar. Envíos a todo Colombia.</p><p><strong>Pago contra entrega · Envío gratis · Garantía de 3 meses</strong></p>",
+    "brand_image_width": 100,
+    "social_facebook_link": "",
+    "social_instagram_link": "",
+    "social_youtube_link": "",
+    "social_tiktok_link": "",
+    "social_twitter_link": "",
+    "social_snapchat_link": "",
+    "social_pinterest_link": "",
+    "social_tumblr_link": "",
+    "social_vimeo_link": "",
+    "predictive_search_enabled": true,
+    "predictive_search_show_vendor": false,
+    "predictive_search_show_price": false,
+    "currency_code_enabled": false,
+    "show_vendor": false,
+    "show_cart_note": false,
+    "cart_type": "drawer",
+    "cart_drawer_collection": "",
     "cart_color_scheme": "scheme-1",
     "cart_countdown_time": 4,
-    "cart_drawer_collection": "",
-    "cart_type": "drawer",
-    "collection_card_border_opacity": 15,
-    "collection_card_border_thickness": 1,
-    "collection_card_color_scheme": "scheme-1",
-    "collection_card_corner_radius": 8,
-    "collection_card_image_padding": 0,
-    "collection_card_shadow_blur": 5,
-    "collection_card_shadow_horizontal_offset": 0,
-    "collection_card_shadow_opacity": 5,
-    "collection_card_shadow_vertical_offset": 4,
-    "collection_card_style": "card",
-    "collection_card_text_alignment": "left",
-    "color_schemes": {
-      "scheme-1": {
-        "settings": {
-          "background": "#ffffff",
-          "background_gradient": "",
-          "text": "#1a1a1a",
-          "button": "#d4af37",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#d4af37",
-          "shadow": "#121212"
-        }
-      },
-      "scheme-2": {
-        "settings": {
-          "background": "#f5f0e8",
-          "background_gradient": "",
-          "text": "#1a1a1a",
-          "button": "#d4af37",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#d4af37",
-          "shadow": "#2a324b"
-        }
-      },
-      "scheme-3": {
-        "settings": {
-          "background": "#0a0a0a",
-          "background_gradient": "",
-          "text": "#f5f5f5",
-          "button": "#d4af37",
-          "button_label": "#0a0a0a",
-          "secondary_button_label": "#d4af37",
-          "shadow": "#8472ed"
-        }
-      },
-      "scheme-4": {
-        "settings": {
-          "background": "#ffffff",
-          "background_gradient": "",
-          "text": "#1a1a1a",
-          "button": "#d4af37",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#d4af37",
-          "shadow": "#2a324b"
-        }
-      },
-      "scheme-5": {
-        "settings": {
-          "background": "#ffffff",
-          "background_gradient": "",
-          "text": "#1a1a1a",
-          "button": "#d4af37",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#d4af37",
-          "shadow": "#2a324b"
-        }
-      },
-      "scheme-e0c80b90-a5af-4cbd-9aa9-5c3f81303d9a": {
-        "settings": {
-          "background": "#ffffff",
-          "background_gradient": "",
-          "text": "#1a1a1a",
-          "button": "#d4af37",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#d4af37",
-          "shadow": "#121212"
-        }
-      }
-    },
-    "content_for_index": [],
-    "currency_code_enabled": false,
-    "drawer_border_opacity": 15,
-    "drawer_border_thickness": 1,
-    "drawer_shadow_blur": 5,
-    "drawer_shadow_horizontal_offset": 0,
-    "drawer_shadow_opacity": 10,
-    "drawer_shadow_vertical_offset": 4,
     "enable_cart_countdown": true,
     "enable_cart_discount": false,
     "enable_cart_progress": true,
-    "favicon": "shopify://shop_images/Captura_de_pantalla_2026-03-22_085448.png",
     "free_shipping_color_scheme": "scheme-5",
     "free_shipping_message": "You're $[amount] away from free shipping",
-    "heading_scale": 110,
-    "inputs_border_opacity": 30,
-    "inputs_border_thickness": 1,
-    "inputs_radius": 6,
-    "inputs_shadow_blur": 5,
-    "inputs_shadow_horizontal_offset": 0,
-    "inputs_shadow_opacity": 0,
-    "inputs_shadow_vertical_offset": 4,
-    "logo": "shopify://shop_images/Captura_de_pantalla_2026-03-22_085335.png",
-    "logo_width": 180,
-    "media_border_opacity": 10,
-    "media_border_thickness": 1,
-    "media_radius": 8,
-    "media_shadow_blur": 5,
-    "media_shadow_horizontal_offset": 0,
-    "media_shadow_opacity": 5,
-    "media_shadow_vertical_offset": -4,
-    "page_width": 1400,
-    "popup_border_opacity": 15,
-    "popup_border_thickness": 1,
-    "popup_corner_radius": 8,
-    "popup_shadow_blur": 5,
-    "popup_shadow_horizontal_offset": 0,
-    "popup_shadow_opacity": 10,
-    "popup_shadow_vertical_offset": 4,
-    "predictive_search_enabled": true,
-    "predictive_search_show_price": false,
-    "predictive_search_show_vendor": false,
     "progress": "#8472ed",
-    "sale_badge_color_scheme": "scheme-4",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -333,37 +244,126 @@
         }
       }
     },
-    "show_cart_note": false,
-    "show_vendor": false,
-    "social_facebook_link": "",
-    "social_instagram_link": "",
-    "social_pinterest_link": "",
-    "social_snapchat_link": "",
-    "social_tiktok_link": "",
-    "social_tumblr_link": "",
-    "social_twitter_link": "",
-    "social_vimeo_link": "",
-    "social_youtube_link": "",
-    "sold_out_badge_color_scheme": "scheme-4",
-    "spacing_grid_horizontal": 16,
-    "spacing_grid_vertical": 12,
-    "spacing_sections": 40,
-    "text_boxes_border_opacity": 10,
-    "text_boxes_border_thickness": 1,
-    "text_boxes_radius": 8,
-    "text_boxes_shadow_blur": 5,
-    "text_boxes_shadow_horizontal_offset": 0,
-    "text_boxes_shadow_opacity": 5,
-    "text_boxes_shadow_vertical_offset": 4,
-    "type_body_font": "lato_n4",
-    "type_header_font": "playfair_display_n4",
-    "variant_pills_border_opacity": 30,
-    "variant_pills_border_thickness": 1,
-    "variant_pills_radius": 20,
-    "variant_pills_shadow_blur": 5,
-    "variant_pills_shadow_horizontal_offset": 0,
-    "variant_pills_shadow_opacity": 0,
-    "variant_pills_shadow_vertical_offset": 4
+    "content_for_index": [],
+    "blocks": {
+      "12075128526103414267": {
+        "type": "shopify://apps/bundlex/blocks/volume-discount-embed/c017a4b2-071a-4809-a2c2-1c5768f46bb9",
+        "disabled": false,
+        "settings": {
+          "hide_quantity": false,
+          "custom_placement_selector": "",
+          "add_to_cart_button_selector": "",
+          "quantity_container_selector": "",
+          "quantity_input_selector": "",
+          "variants_container_selector": "",
+          "product_form_selector": "",
+          "custom_css": ""
+        }
+      },
+      "13669795325273674392": {
+        "type": "shopify://apps/releasit-cod-form/blocks/app-embed/72faf214-4174-4fec-886b-0d0e8d3af9a2",
+        "disabled": false,
+        "settings": {}
+      },
+      "14060646107696862457": {
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {}
+      },
+      "2200952712151285029": {
+        "type": "shopify://apps/microsoft-clarity/blocks/brandAgents_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
+        "disabled": false,
+        "settings": {}
+      },
+      "2567389343055140935": {
+        "type": "shopify://apps/microsoft-clarity/blocks/clarity_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
+        "disabled": false,
+        "settings": {}
+      },
+      "615878013053043219": {
+        "type": "shopify://apps//blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3",
+        "disabled": false,
+        "settings": {}
+      },
+      "7313114205116804392": {
+        "type": "shopify://apps/propel-replays-heatmaps/blocks/app-embed/64fbaaa3-2d4a-49f3-aba7-86e92e44999f",
+        "disabled": false,
+        "settings": {}
+      },
+      "8208493610395315515": {
+        "type": "shopify://apps/dondy-whatsapp/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
+        "disabled": false,
+        "settings": {}
+      }
+    },
+    "color_schemes": {
+      "scheme-1": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#1a1a1a",
+          "button": "#d4af37",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#d4af37",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-2": {
+        "settings": {
+          "background": "#f5f0e8",
+          "background_gradient": "",
+          "text": "#1a1a1a",
+          "button": "#d4af37",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#d4af37",
+          "shadow": "#2a324b"
+        }
+      },
+      "scheme-3": {
+        "settings": {
+          "background": "#0a0a0a",
+          "background_gradient": "",
+          "text": "#f5f5f5",
+          "button": "#d4af37",
+          "button_label": "#0a0a0a",
+          "secondary_button_label": "#d4af37",
+          "shadow": "#8472ed"
+        }
+      },
+      "scheme-4": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#1a1a1a",
+          "button": "#d4af37",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#d4af37",
+          "shadow": "#2a324b"
+        }
+      },
+      "scheme-5": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#1a1a1a",
+          "button": "#d4af37",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#d4af37",
+          "shadow": "#2a324b"
+        }
+      },
+      "scheme-e0c80b90-a5af-4cbd-9aa9-5c3f81303d9a": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#1a1a1a",
+          "button": "#d4af37",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#d4af37",
+          "shadow": "#121212"
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
